@@ -1,0 +1,248 @@
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\BackupSettings.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\BackupSettings.pdb
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\DirectShowLib.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\Gentle.Common.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\Gentle.Framework.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\PluginBase.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\PowerScheduler.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\PowerScheduler.Interfaces.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\SetupControls.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\SetupTv.exe
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\TvBusinessLayer.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\TvControl.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\TVDatabase.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\TVLibrary.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\TvLibrary.Interfaces.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\TvMovie.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\log4net.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\bin\Release\MySql.Data.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\obj\Release\SetupTv.Sections.XML_Import_ExportSetup.resources
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\obj\Release\BackupSettings.dll
+C:\Users\Hubert\Documents\Visual Studio 2008\Projects\BackupSettings\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettings\obj\Release\SetupTv.Sections.BACKUP_SETTINGSSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.1\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.1\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.1\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.1\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.1\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.1\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.1\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.1\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.1\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.2\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.2\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.2\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.2\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.2\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.2\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.2\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.2\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.2\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\BackupSettings.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\bin\Release\BackupSettings.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\bin\Release\BackupSettings.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\bin\Release\log4net.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\bin\Release\MySql.Data.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\BackupSettings.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.3\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.4\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.4\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.4\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.4\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.4\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.4\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.4\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.4\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.4\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\BackupSettings.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\BackupSettings.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\bin\Release\BackupSettings.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\bin\Release\BackupSettings.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\bin\Release\log4net.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\bin\Release\MySql.Data.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV0.0.0.5\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.6\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.6\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.6\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.6\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.6\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.6\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.6\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.6\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.6\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.7\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.7\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.7\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.7\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.7\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.7\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.7\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.7\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.7\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\BackupSettings.pdb
+I:\C# Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\bin\Release\BackupSettings.dll
+I:\C# Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\bin\Release\BackupSettings.pdb
+I:\C# Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\bin\Release\log4net.dll
+I:\C# Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\bin\Release\MySql.Data.dll
+I:\C# Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+I:\C# Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+I:\C# Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+I:\C# Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\BackupSettings.dll
+I:\C# Projects\BackupSettingsV0.0.0.8\Source\BackupSettings\obj\Release\BackupSettings.pdb
+I:\C# Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\bin\Release\BackupSettings.dll
+I:\C# Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\bin\Release\BackupSettings.pdb
+I:\C# Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\bin\Release\log4net.dll
+I:\C# Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\bin\Release\MySql.Data.dll
+I:\C# Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+I:\C# Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+I:\C# Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+I:\C# Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\BackupSettings.dll
+I:\C# Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.0.9\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.1.0\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.1.0\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.1.0\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.1.0\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.1.0\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.1.0\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.1.0\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.1.0\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettingsV0.0.1.0\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.1\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.1\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.1\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.1\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.1\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.1\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.1\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.1\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.1\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\log4net.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\MySql.Data.dll
+I:\User Daten\Visual C# Projects\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+I:\User Daten\Visual C# Projects\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+I:\User Daten\Visual C# Projects\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettingsV0.0.1.2\Source\BackupSettings\obj\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\log4net.dll
+I:\User Daten\Visual C# Projects\BackupSettingsV0.0.1.2\Source\BackupSettings\bin\Release\MySql.Data.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.3\Source\BackupSettings\bin\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.3\Source\BackupSettings\bin\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.3\Source\BackupSettings\bin\Release\log4net.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.3\Source\BackupSettings\bin\Release\MySql.Data.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.3\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.3\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.3\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.3\Source\BackupSettings\obj\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.3\Source\BackupSettings\obj\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\bin\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\bin\Release\BackupSettings.pdb
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\bin\Release\log4net.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\bin\Release\MySql.Data.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\BackupSettings.dll
+F:\Installation\UserDaten\Visual Studio # Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\bin\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\bin\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\bin\Release\log4net.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\bin\Release\MySql.Data.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.4\Source\BackupSettings\obj\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.5\Source\BackupSettings\bin\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.5\Source\BackupSettings\bin\Release\BackupSettings.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.5\Source\BackupSettings\bin\Release\log4net.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.5\Source\BackupSettings\bin\Release\MySql.Data.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.5\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.5\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.5\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.5\Source\BackupSettings\obj\Release\BackupSettings.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.5\Source\BackupSettings\obj\Release\BackupSettings.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\bin\Release\BackupSettings.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\bin\Release\BackupSettings.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\bin\Release\log4net.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\bin\Release\MySql.Data.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\BackupSettings.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\BackupSettings.pdb
+I:\C# Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\ResolveAssemblyReference.cache
+I:\C# Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\SetupTv.Sections.Backup_SettingsSetup.resources
+I:\C# Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\BackupSettings.csproj.GenerateResource.Cache
+I:\C# Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\BackupSettings.dll
+I:\C# Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\bin\Release\BackupSettings.dll
+I:\C# Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\bin\Release\BackupSettings.pdb
+I:\C# Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\bin\Release\log4net.dll
+I:\C# Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\bin\Release\MySql.Data.dll
+I:\C# Projects\BackupSettingsV9.0.0.0\Source\BackupSettings\obj\Release\BackupSettings.pdb

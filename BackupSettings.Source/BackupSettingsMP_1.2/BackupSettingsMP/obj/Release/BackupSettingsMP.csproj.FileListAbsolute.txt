@@ -1,0 +1,478 @@
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\BackupSettingsMP.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Core.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\MediaPortal.exe
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\BassRegistration.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\edtftpnet-1.2.2.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Interop.X10.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Interop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Databases.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\MediaPortal.Support.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\DirectShowLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Utils.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Bass.Net.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\RemotePlugins.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\CSScriptLibrary.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\AxInterop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\TVCapture.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\taglib-sharp.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Interop.TunerLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\MediaPortal.BackupSettingMP.BackupSettingMPSetup.resources
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\BackupSettingsMP.csproj.GenerateResource.Cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\BackupSettingsMP.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\Core.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\MediaPortal.exe
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\BassRegistration.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\edtftpnet-1.2.2.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\Interop.X10.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\Interop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\Databases.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\MediaPortal.Support.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\DirectShowLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\Utils.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\Bass.Net.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\RemotePlugins.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\CSScriptLibrary.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\AxInterop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\TVCapture.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\taglib-sharp.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\Interop.TunerLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\obj\Release\MediaPortal.BackupSettingMP.BackupSettingMPSetup.resources
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.csproj.GenerateResource.Cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\Core.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\MediaPortal.exe
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\BassRegistration.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\edtftpnet-1.2.2.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\Interop.X10.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\Interop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\Databases.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\MediaPortal.Support.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\DirectShowLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\Utils.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\Bass.Net.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\RemotePlugins.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\CSScriptLibrary.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\AxInterop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\TVCapture.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\taglib-sharp.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\Interop.TunerLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\obj\Release\MediaPortal.BackupSettingMP.BackupSettingMPSetup.resources
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\obj\Release\BackupSettingsMP.csproj.GenerateResource.Cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMPV0.0.0.1\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Core.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\MediaPortal.exe
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\BassRegistration.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\edtftpnet-1.2.2.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Interop.X10.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Interop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Databases.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\MediaPortal.Support.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\DirectShowLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Utils.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Bass.Net.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\RemotePlugins.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\CSScriptLibrary.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\AxInterop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\TVCapture.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\taglib-sharp.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Interop.TunerLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\MediaPortal.BackupSettingMP.BackupSettingMPSetup.resources
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\BackupSettingsMP.csproj.GenerateResource.Cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\BassRegistration.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\edtftpnet-1.2.2.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Interop.X10.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Interop.WMPLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Databases.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\MediaPortal.Support.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\DirectShowLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Utils.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Bass.Net.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\RemotePlugins.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\CSScriptLibrary.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\AxInterop.WMPLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\TVCapture.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\taglib-sharp.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\Interop.TunerLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\bin\Release\ICSharpCode.SharpZipLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\MediaPortal.BackupSettingMP.BackupSettingMPSetup.resources
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\BackupSettingsMP.csproj.GenerateResource.Cache
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.1\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\BassRegistration.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\edtftpnet-1.2.2.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Interop.X10.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Interop.WMPLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Databases.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\MediaPortal.Support.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\DirectShowLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Utils.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Bass.Net.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\RemotePlugins.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\CSScriptLibrary.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\AxInterop.WMPLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\TVCapture.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\taglib-sharp.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Interop.TunerLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\ICSharpCode.SharpZipLib.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\MediaPortal.BackupSettingMP.BackupSettingMPSetup.resources
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\BackupSettingsMP.csproj.GenerateResource.Cache
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\C# Projects\BackupSettings\BackupSettings V0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\BassRegistration.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\edtftpnet-1.2.2.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Interop.X10.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Interop.WMPLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Databases.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\MediaPortal.Support.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\DirectShowLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Utils.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Bass.Net.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\RemotePlugins.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\CSScriptLibrary.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\AxInterop.WMPLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\TVCapture.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\taglib-sharp.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Interop.TunerLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\ICSharpCode.SharpZipLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.6\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\BassRegistration.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\edtftpnet-1.2.2.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Interop.X10.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Interop.WMPLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Databases.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\MediaPortal.Support.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\DirectShowLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Utils.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Bass.Net.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\RemotePlugins.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\CSScriptLibrary.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\AxInterop.WMPLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\TVCapture.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\taglib-sharp.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\Interop.TunerLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\bin\Release\ICSharpCode.SharpZipLib.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.7\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.8\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.8\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.8\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.8\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.8\Source\BackupSettingsMP V0.0.0.3\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.9\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.9\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.9\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.9\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV0.0.1.9\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.0\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.0\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.0\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.0\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.0\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.2\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.2\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.2\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.2\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.2\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.3\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.3\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.3\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.3\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.3\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.4\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.4\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.4\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.4\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.4\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.5\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.5\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.5\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.5\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.0.5\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.0\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.0\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.0\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.0\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.0\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.1\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.1\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.1\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.1\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.1\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.2\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.2\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.2\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.2\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.3.2\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.0\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.0\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.0\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.0\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.0\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+D:\Installation\C#Projects\BackupSettings\BackupSettingsV1.0.4.1\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+D:\Installation\C#Projects\BackupSettings\BackupSettingsV1.0.4.1\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+D:\Installation\C#Projects\BackupSettings\BackupSettingsV1.0.4.1\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+D:\Installation\C#Projects\BackupSettings\BackupSettingsV1.0.4.1\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+D:\Installation\C#Projects\BackupSettings\BackupSettingsV1.0.4.1\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+J:\Misc\MP\c#\BackupSettingsV1.0.4.2\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+J:\Misc\MP\c#\BackupSettingsV1.0.4.2\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+J:\Misc\MP\c#\BackupSettingsV1.0.4.2\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+J:\Misc\MP\c#\BackupSettingsV1.0.4.2\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+J:\Misc\MP\c#\BackupSettingsV1.0.4.2\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+J:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+J:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+J:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+J:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+J:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.3\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.4\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.4\Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.4\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.4\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.4\Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.5\BackupSettingsV1.0.4.5.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.5\BackupSettingsV1.0.4.5.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.5\BackupSettingsV1.0.4.5.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.5\BackupSettingsV1.0.4.5.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.4.5\BackupSettingsV1.0.4.5.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.0\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.0\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.0\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.0\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.0\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.2.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.2.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.2.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.2.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+I:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.2.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.0.6.1\BackupSettingsV1.0.6.1.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.0\BackupSettingsV1.1.0.0.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.0\BackupSettingsV1.1.0.0.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.0\BackupSettingsV1.1.0.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.0\BackupSettingsV1.1.0.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.0\BackupSettingsV1.1.0.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.1\BackupSettingsV1.1.0.1.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.1\BackupSettingsV1.1.0.1.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.1\BackupSettingsV1.1.0.1.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.1\BackupSettingsV1.1.0.1.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.1\BackupSettingsV1.1.0.1.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.2\BackupSettingsV1.1.0.2.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.2\BackupSettingsV1.1.0.2.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.2\BackupSettingsV1.1.0.2.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.2\BackupSettingsV1.1.0.2.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.2\BackupSettingsV1.1.0.2.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.3\BackupSettingsV1.1.0.3.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.3\BackupSettingsV1.1.0.3.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.3\BackupSettingsV1.1.0.3.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.3\BackupSettingsV1.1.0.3.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.3\BackupSettingsV1.1.0.3.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.0\BackupSettingsV1.2.0.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.1\BackupSettingsV1.2.0.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.1\BackupSettingsV1.2.0.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.1\BackupSettingsV1.2.0.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.1\BackupSettingsV1.2.0.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.1\BackupSettingsV1.2.0.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.2\BackupSettingsV1.2.0.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.2\BackupSettingsV1.2.0.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.2\BackupSettingsV1.2.0.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.2\BackupSettingsV1.2.0.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.2\BackupSettingsV1.2.0.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.3\BackupSettingsV1.2.0.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.3\BackupSettingsV1.2.0.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.3\BackupSettingsV1.2.0.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.3\BackupSettingsV1.2.0.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.3\BackupSettingsV1.2.0.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.4\BackupSettingsV1.2.0.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.4\BackupSettingsV1.2.0.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.4\BackupSettingsV1.2.0.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.4\BackupSettingsV1.2.0.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.4\BackupSettingsV1.2.0.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.5\BackupSettingsV1.2.0.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.5\BackupSettingsV1.2.0.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.5\BackupSettingsV1.2.0.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.5\BackupSettingsV1.2.0.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.5\BackupSettingsV1.2.0.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.6\BackupSettingsV1.2.0.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.6\BackupSettingsV1.2.0.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.6\BackupSettingsV1.2.0.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.6\BackupSettingsV1.2.0.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.6\BackupSettingsV1.2.0.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.7\BackupSettingsV1.2.0.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.7\BackupSettingsV1.2.0.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.7\BackupSettingsV1.2.0.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.7\BackupSettingsV1.2.0.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.7\BackupSettingsV1.2.0.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.8\BackupSettingsV1.2.0.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.8\BackupSettingsV1.2.0.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.8\BackupSettingsV1.2.0.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.8\BackupSettingsV1.2.0.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.8\BackupSettingsV1.2.0.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.9\BackupSettingsV1.2.0.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.9\BackupSettingsV1.2.0.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.9\BackupSettingsV1.2.0.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.9\BackupSettingsV1.2.0.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.9\BackupSettingsV1.2.0.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.10\BackupSettingsV1.2.0.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.10\BackupSettingsV1.2.0.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.10\BackupSettingsV1.2.0.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.10\BackupSettingsV1.2.0.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.10\BackupSettingsV1.2.0.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.11\BackupSettingsV1.2.0.11.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.11\BackupSettingsV1.2.0.11.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.11\BackupSettingsV1.2.0.11.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.11\BackupSettingsV1.2.0.11.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.11\BackupSettingsV1.2.0.11.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.12\BackupSettingsV1.2.0.12.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.12\BackupSettingsV1.2.0.12.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.12\BackupSettingsV1.2.0.12.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.12\BackupSettingsV1.2.0.12.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.12\BackupSettingsV1.2.0.12.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.3.0\BackupSettingsV1.2.3.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.3.0\BackupSettingsV1.2.3.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.3.0\BackupSettingsV1.2.3.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.3.0\BackupSettingsV1.2.3.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.3.0\BackupSettingsV1.2.3.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.15\BackupSettingsV1.2.0.15.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.15\BackupSettingsV1.2.0.15.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.15\BackupSettingsV1.2.0.15.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.15\BackupSettingsV1.2.0.15.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.15\BackupSettingsV1.2.0.15.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.1\BackupSettingsV1.2.2.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.1\BackupSettingsV1.2.2.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.1\BackupSettingsV1.2.2.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.1\BackupSettingsV1.2.2.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.1\BackupSettingsV1.2.2.1.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.2\BackupSettingsV1.2.2.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.2\BackupSettingsV1.2.2.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.2\BackupSettingsV1.2.2.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.2\BackupSettingsV1.2.2.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.2\BackupSettingsV1.2.2.2.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.3\BackupSettingsV1.2.2.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.3\BackupSettingsV1.2.2.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.3\BackupSettingsV1.2.2.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.3\BackupSettingsV1.2.2.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.3\BackupSettingsV1.2.2.3.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.4\BackupSettingsV1.2.2.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.4\BackupSettingsV1.2.2.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.4\BackupSettingsV1.2.2.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.4\BackupSettingsV1.2.2.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.4\BackupSettingsV1.2.2.4.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.5\BackupSettingsV1.2.2.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.5\BackupSettingsV1.2.2.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.5\BackupSettingsV1.2.2.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.5\BackupSettingsV1.2.2.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.5\BackupSettingsV1.2.2.5.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.6\BackupSettingsV1.2.2.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.6\BackupSettingsV1.2.2.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.6\BackupSettingsV1.2.2.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.6\BackupSettingsV1.2.2.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.6\BackupSettingsV1.2.2.6.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.7\BackupSettingsV1.2.2.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.7\BackupSettingsV1.2.2.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.7\BackupSettingsV1.2.2.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.7\BackupSettingsV1.2.2.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.7\BackupSettingsV1.2.2.7.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.9.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb

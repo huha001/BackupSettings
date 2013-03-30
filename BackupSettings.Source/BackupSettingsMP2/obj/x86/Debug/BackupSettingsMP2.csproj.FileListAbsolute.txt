@@ -1,0 +1,20 @@
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP2\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP2\bin\x86\Debug\MyTestPlugin.dll
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP2\bin\x86\Debug\MyTestPlugin.pdb
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP2\obj\x86\Debug\MyTestPlugin.dll
+N:\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.13.Source\BackupSettingsMP2\obj\x86\Debug\MyTestPlugin.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP2\bin\x86\Debug\BackupSettingsMP2.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP2\bin\x86\Debug\BackupSettingsMP2.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP2\obj\x86\Debug\BackupSettingsMP2.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsMP2\obj\x86\Debug\BackupSettingsMP2.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP2\bin\x86\Debug\BackupSettingsMP2.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP2\bin\x86\Debug\BackupSettingsMP2.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP2\obj\x86\Debug\BackupSettingsMP2.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.0\BackupSettingsV1.2.2.0.Source\BackupSettingsMP2\obj\x86\Debug\BackupSettingsMP2.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP2\bin\x86\Debug\BackupSettingsMP2.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP2\bin\x86\Debug\BackupSettingsMP2.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP2\obj\x86\Debug\BackupSettingsMP2.csprojResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP2\obj\x86\Debug\BackupSettingsMP2.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.8\BackupSettingsV1.2.2.8.Source\BackupSettingsMP2\obj\x86\Debug\BackupSettingsMP2.pdb

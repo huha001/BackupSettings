@@ -1,0 +1,26 @@
+C:\Users\hubert\AppData\Local\Temporary Projects\BackupSettingMP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Core.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\MediaPortal.exe
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\BassRegistration.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\edtftpnet-1.2.2.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Interop.X10.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Interop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Databases.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\MediaPortal.Support.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\DirectShowLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Utils.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Bass.Net.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\RemotePlugins.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\CSScriptLibrary.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\AxInterop.WMPLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\TVCapture.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\taglib-sharp.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\Interop.TunerLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\MediaPortal.BackupSettingMP.BackupSettingMPSetup.resources
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\BackupSettingMP.csproj.GenerateResource.Cache
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\bin\Release\BackupSettingsMP.pdb
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\BackupSettingsMP.dll
+C:\Users\hubert\Documents\Visual Studio 2008\Projects\BackupSettingMP\BackupSettingMP\obj\Release\BackupSettingsMP.pdb

@@ -1,0 +1,48 @@
+<Plugin
+    DescriptorVersion="1.0"
+    Name="BackupSettingsMP2"
+    PluginId="176b2785-c109-4e38-812b-96d3b9011a8e"
+    Author="huha"
+    Copyright="GPL"
+    Description="test plugin"
+    PluginVersion="1.2.0.14">
+
+  <Runtime>
+    <Assembly FileName="BackupSettingsMP2.dll"/>
+  </Runtime>
+
+  <DependsOn>
+    <PluginReference PluginId="{1AFF4467-64B0-4ca1-AF28-9AEDF3525BCE}"/>
+    <!-- Configuration Manager Plugin -->
+  </DependsOn>
+
+  <Register Location="/Resources/Language">
+    <Resource Id="BackupSettingsMP2Language" Directory="Language" Type="Language"/>
+  </Register>
+
+  <!-- Root configuration sections -->
+  <Register Location="/Configuration/Settings">
+    <ConfigSection
+        Id="Plugins"
+        Redundant="true"
+        Text="[Settings.Plugins]"/>
+  </Register>
+
+  <!-- Contents of '/Plugins' section -->
+  <Register Location="/Configuration/Settings/Plugins">
+    <ConfigSection
+        Id="BackupSettingsMP2"
+        Redundant="true"
+        Text="[Settings.Plugins.BackupSettingsMP2]"/>
+  </Register>
+
+  <!-- Contents of '/Plugins/MyTestPlugin' section -->
+  <Register Location="/Configuration/Settings/Plugins/BackupSettingsMP2">
+    <ConfigSetting
+        Id="BackupSettingsMP2Configuration"
+        Text="[Settings.Plugins.BackupSettingsMP2.Start]"
+        HelpText="[Settings.Plugins.BackupSettingsMP2.Start.Help]"
+        ClassName="MediaPortal.Plugins.BackupSettingsMP2.Settings.Configuration.StartClass"/>
+  </Register>
+  
+</Plugin>

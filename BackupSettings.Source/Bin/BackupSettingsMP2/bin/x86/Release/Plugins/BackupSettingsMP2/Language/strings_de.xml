@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+
+  <string name="Settings.Plugins.BackupSettingsMP2">BackupSettings</string>
+
+  <string name="Settings.Plugins.BackupSettingsMP2.Start">Starte BackupSettings Anwendung</string>
+  <string name="Settings.Plugins.BackupSettingsMP2.Start.Help">Der MediaPortal2 Client wird geschlossen und die externe BackupSettings Anwendung wird mit Administratorrechten geöffnet</string>
+
+  
+  
+  
+</resources>

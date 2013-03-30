@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupSettingsMP", "BackupSettingsMP\BackupSettingsMP.csproj", "{A074C10E-A8F7-421A-A4BA-77CE06F68D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A074C10E-A8F7-421A-A4BA-77CE06F68D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A074C10E-A8F7-421A-A4BA-77CE06F68D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A074C10E-A8F7-421A-A4BA-77CE06F68D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A074C10E-A8F7-421A-A4BA-77CE06F68D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

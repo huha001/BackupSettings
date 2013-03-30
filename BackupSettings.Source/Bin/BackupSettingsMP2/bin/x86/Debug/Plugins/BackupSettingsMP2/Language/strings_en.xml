@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+
+  <string name="Settings.Plugins.BackupSettingsMP2">BackupSettings</string>
+
+  <string name="Settings.Plugins.BackupSettingsMP2.Start">Start BackupSettings Application</string>
+  <string name="Settings.Plugins.BackupSettingsMP2.Start.Help">This will close the MediaPortal2 client and start the external BackupSettingsMP2 application. You need to have administrator rights for UAC"</string>
+
+  
+
+
+</resources>

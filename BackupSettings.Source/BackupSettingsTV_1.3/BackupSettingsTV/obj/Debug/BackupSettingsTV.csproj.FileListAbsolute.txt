@@ -1,0 +1,21 @@
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.3\BackupSettingsV1.1.0.3.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.3\BackupSettingsV1.1.0.3.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\SetupTv.Sections.BackupSettingsSetup.resources
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.3\BackupSettingsV1.1.0.3.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource.read.1.tlog
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.1.0.3\BackupSettingsV1.1.0.3.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource.write.1.tlog
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.12.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\ResolveAssemblyReference.cache
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.12.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\SetupTv.Sections.BackupSettingsSetup.resources
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.12.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.12.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource.read.1.tlog
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.12.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\Visual C# Projects\BackupSettingsV1.2.0.13\BackupSettingsV1.2.0.12.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource.write.1.tlog
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\SetupTv.Sections.BackupSettingsSetup.resources
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource.read.1.tlog
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\ResGen.read.1.tlog
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\GenerateResource.write.1.tlog
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.0.14\BackupSettingsV1.2.0.14.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Debug\ResGen.write.1.tlog
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.8.Source\BackupSettingsTV_1.3\BackupSettingsTV\obj\Debug\BackupSettingsTV.csprojResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.8.Source\BackupSettingsTV_1.3\BackupSettingsTV\obj\Debug\SetupTv.Sections.BackupSettingsSetup.resources
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.8.Source\BackupSettingsTV_1.3\BackupSettingsTV\obj\Debug\BackupSettingsTV.csproj.GenerateResource.Cache
