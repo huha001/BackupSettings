@@ -20,7 +20,7 @@ REM Version Update
 REM *************************************************************************
 
 
-MOVE BackupSetting.V.%OLDVERSION%.odt BackupSetting.V.%NEWVERSION%.odt
+MOVE BackupSetting.V%OLDVERSION%.odt BackupSetting.V%NEWVERSION%.odt
 
 DEL BackupSettings.Source\MPEI2\*.mpe1
 DEL BackupSettings.Source\MPEI2\*.xml
