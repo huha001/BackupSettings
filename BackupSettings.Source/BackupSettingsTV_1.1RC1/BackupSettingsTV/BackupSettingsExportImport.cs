@@ -2960,6 +2960,8 @@ namespace BackupSettingsPlugin
                     }
                     else
                     {
+                        if (DEBUG)
+                            textoutput("Removing Setting " + setting.Tag + " Value=" + setting.Value);
                         setting.Remove();
                     }
 
@@ -2970,6 +2972,8 @@ namespace BackupSettingsPlugin
                     }
                     else
                     {
+                        if (DEBUG)
+                            textoutput("Removing Setting " + setting.Tag + " Value=" + setting.Value); 
                         setting.Remove();
                     }
 
@@ -2980,6 +2984,8 @@ namespace BackupSettingsPlugin
                     }
                     else
                     {
+                        if (DEBUG)
+                            textoutput("Removing Setting " + setting.Tag + " Value=" + setting.Value);
                         setting.Remove();
                     }
 
@@ -2990,6 +2996,8 @@ namespace BackupSettingsPlugin
                     }
                     else
                     {
+                        if (DEBUG)
+                            textoutput("Removing Setting " + setting.Tag + " Value=" + setting.Value);
                         setting.Remove();
                     }
 
@@ -3929,32 +3937,38 @@ namespace BackupSettingsPlugin
                         //legacy Delete for old leftovers (not found settings from Version 1.2.0.5 and older could have left "NOTFOUND" settings for cards)                   
                         if ((mysetting.Tag.StartsWith("analog")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
                         {
-                            textoutput("Removing Setting " + mysetting.Tag + " Value="+mysetting.Value);
+                            if (DEBUG)
+                                textoutput("Removing Setting " + mysetting.Tag + " Value="+mysetting.Value);
                             mysetting.Remove();
                         }
                         else if ((mysetting.Tag.StartsWith("atsc")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
                         {
-                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            if (DEBUG)
+                                textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
                             mysetting.Remove();
                         }
                         else if ((mysetting.Tag.StartsWith("dvbc")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
                         {
-                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            if (DEBUG)
+                                textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
                             mysetting.Remove();
                         }
                         else if ((mysetting.Tag.StartsWith("dvbs")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
                         {
-                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            if (DEBUG)
+                                textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
                             mysetting.Remove();
                         }
                         else if ((mysetting.Tag.StartsWith("dvbt")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
                         {
-                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            if (DEBUG)
+                                textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
                             mysetting.Remove();
                         }
                         else if ((mysetting.Tag.StartsWith("dvbip")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
                         {
-                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            if (DEBUG)
+                                textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
                             mysetting.Remove();
                         }//end remove temporary settings
                         else
