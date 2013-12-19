@@ -1780,7 +1780,22 @@ namespace BackupSettingsInstall
             
 
 
-            if (File.Exists(TV_PROGRAM_FOLDER + @"..\..\MySQL\MySQL Server 5.1\bin\mysqlcheck.exe"))
+            if (File.Exists(TV_PROGRAM_FOLDER + @"..\..\MySQL\MySQL Server 5.6\bin\mysqlcheck.exe"))
+            {
+                sqlexedir = TV_PROGRAM_FOLDER + @"..\..\MySQL\MySQL Server 5.6\bin";
+                //textoutputdebug("1: sqlexe=" + sqlexedir);
+            }
+            else if (File.Exists(PROGRAMFILES + @"\MySQL\MySQL Server 5.6\bin\mysqlcheck.exe"))
+            {
+                sqlexedir = PROGRAMFILES + @"\MySQL\MySQL Server 5.6\bin";
+                //textoutputdebug("2: sqlexe=" + sqlexedir);
+            }
+            else if (File.Exists(PROGRAMFILESx86 + @"\MySQL\MySQL Server 5.6\bin\mysqlcheck.exe"))
+            {
+                sqlexedir = PROGRAMFILESx86 + @"\MySQL\MySQL Server 5.6\bin";
+                //textoutputdebug("3: sqlexe=" + sqlexedir); 
+            }
+            else if (File.Exists(TV_PROGRAM_FOLDER + @"..\..\MySQL\MySQL Server 5.1\bin\mysqlcheck.exe"))
             {
                 sqlexedir = TV_PROGRAM_FOLDER + @"..\..\MySQL\MySQL Server 5.1\bin";
                 //textoutputdebug("1: sqlexe=" + sqlexedir);

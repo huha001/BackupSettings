@@ -1,0 +1,895 @@
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM ************************************************************************* 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM DEFINE VARIABLES 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM ************************************************************************* 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM  
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>SET OLDVERSION=1.2.2.11 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>SET NEWVERSION=1.2.2.12 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>SET MSFRAMEPATH="C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>SET MSFRAMEPATH_MP2="C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe" 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM SET FILE_REPLACE=..\FileReplaceString.exe 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>SET FILE_REPLACE=FileReplaceString.exe 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM ******************************END VARIABLES****************************** 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM ************************************************************************* 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM Version Update 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM ************************************************************************* 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>MOVE BackupSetting.V.1.2.2.11.odt BackupSetting.V.1.2.2.12.odt 
+Das System kann die angegebene Datei nicht finden.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>DEL BackupSettings.Source\MPEI2\*.mpe1 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>DEL BackupSettings.Source\MPEI2\*.xml 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsTV.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsTV.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+            get { return "1.2.2.11"; }
+to
+            get { return "1.2.2.12"; }
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsExportImport.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsExportImport.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+        string pluginversion = "1.2.2.11";
+to
+        string pluginversion = "1.2.2.12";
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsTV.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsTV.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+            get { return "1.2.2.11"; }
+to
+            get { return "1.2.2.12"; }
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsExportImport.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsExportImport.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+        string pluginversion = "1.2.2.11";
+to
+        string pluginversion = "1.2.2.12";
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV\BackupSettingsTV.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV\BackupSettingsTV.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+            get { return "1.2.2.11"; }
+to
+            get { return "1.2.2.12"; }
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV\BackupSettingsTV.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV\BackupSettingsTV.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+            get { return "1.2.2.11"; }
+to
+            get { return "1.2.2.12"; }
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV\BackupSettingsTV.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV\BackupSettingsTV.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+            get { return "1.2.2.11"; }
+to
+            get { return "1.2.2.12"; }
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsMP\BackupSettingsMP\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsMP\BackupSettingsMP\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\Form1.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\Form1.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\Form1.Designer.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\Form1.Designer.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+            this.Text = "MediaPortal BackupSettingsMP V1.2.2.11";
+to
+            this.Text = "MediaPortal BackupSettingsMP V1.2.2.12";
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\BackupSettingsExportImport.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\BackupSettingsExportImport.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+        string pluginversion = "1.2.2.11";
+to
+        string pluginversion = "1.2.2.12";
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\Install\Install\InstallSetup.Designer.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\Install\Install\InstallSetup.Designer.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+            this.Text = "BackupSettings Installer V1.2.2.11";
+to
+            this.Text = "BackupSettings Installer V1.2.2.12";
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\Install\Install\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\Install\Install\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe "BackupSettings.Source\RestartSetupTV\RestartSetupTV\Properties\AssemblyInfo.cs" 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\RestartSetupTV\RestartSetupTV\Properties\AssemblyInfo.cs
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+[assembly: AssemblyVersion("1.2.2.11")]
+to
+[assembly: AssemblyVersion("1.2.2.12")]
+
+Substituting line
+[assembly: AssemblyFileVersion("1.2.2.11")]
+to
+[assembly: AssemblyFileVersion("1.2.2.12")]
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>FileReplaceString.exe BackupSettings.Source\MPEI2\BackupSettings.xmp2 1.2.2.11 1.2.2.12 
+FileReplaceString <filename> <search string> <replace string>
+Will replace the search string by the replace string for each match 
+within the ASCII file filename
+args=3
+filename=BackupSettings.Source\MPEI2\BackupSettings.xmp2
+search string=1.2.2.11
+replace string=1.2.2.12
+Substituting line
+    <VersionDescription>Version 1.2.2.11
+to
+    <VersionDescription>Version 1.2.2.12
+
+Substituting line
+    <Location>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\MPEI2\BackupSettings.Ver.1.2.2.11.mpe1</Location>
+to
+    <Location>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\MPEI2\BackupSettings.Ver.1.2.2.12.mpe1</Location>
+
+Substituting line
+        <Folder>..\..\BackupSettingsV1.2.2.11.Release</Folder>
+to
+        <Folder>..\..\BackupSettingsV1.2.2.12.Release</Folder>
+
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM ******************** END VERSION UPDATE ******************** 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM ************************************************************************* 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM Compile ALL 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>REM ************************************************************************* 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings>CD BackupSettings.Source 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.cs" "BackupSettingsTV_1.0.1\BackupSettingsTV\BackupSettingsSetupTV.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\InstallPaths.cs" "BackupSettingsTV_1.0.1\BackupSettingsTV\InstallPaths.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsTV.cs" "BackupSettingsTV_1.0.1\BackupSettingsTV\BackupSettingsTV.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.Designer.cs" "BackupSettingsTV_1.0.1\BackupSettingsTV\BackupSettingsSetupTV.Designer.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.resx" "BackupSettingsTV_1.0.1\BackupSettingsTV\BackupSettingsSetupTV.resx" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsExportImport.cs" "BackupSettingsTV_1.0.1\BackupSettingsTV\BackupSettingsExportImport.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.cs" "BackupSettingsTV_1.1RC1\BackupSettingsTV\BackupSettingsSetupTV.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\InstallPaths.cs" "BackupSettingsTV_1.1RC1\BackupSettingsTV\InstallPaths.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsTV.cs" "BackupSettingsTV_1.1RC1\BackupSettingsTV\BackupSettingsTV.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.Designer.cs" "BackupSettingsTV_1.1RC1\BackupSettingsTV\BackupSettingsSetupTV.Designer.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.resx" "BackupSettingsTV_1.1RC1\BackupSettingsTV\BackupSettingsSetupTV.resx" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsExportImport.cs" "BackupSettingsTV_1.1RC1\BackupSettingsTV\BackupSettingsExportImport.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.cs" "BackupSettingsTV_1.1RC2\BackupSettingsTV\BackupSettingsSetupTV.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\InstallPaths.cs" "BackupSettingsTV_1.1RC2\BackupSettingsTV\InstallPaths.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsTV.cs" "BackupSettingsTV_1.1RC2\BackupSettingsTV\BackupSettingsTV.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.Designer.cs" "BackupSettingsTV_1.1RC2\BackupSettingsTV\BackupSettingsSetupTV.Designer.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.resx" "BackupSettingsTV_1.1RC2\BackupSettingsTV\BackupSettingsSetupTV.resx" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsExportImport.cs" "BackupSettingsTV_1.1RC2\BackupSettingsTV\BackupSettingsExportImport.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.cs" "BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsSetupTV.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\InstallPaths.cs" "BackupSettingsTV_1.2\BackupSettingsTV\InstallPaths.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsTV.cs" "BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsTV.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.Designer.cs" "BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsSetupTV.Designer.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsSetupTV.resx" "BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsSetupTV.resx" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsExportImport.cs" "BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsExportImport.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsMP_1.2\BackupSettingsMP\BackupSettingsMP.cs" "BackupSettingsMP\BackupSettingsMP\BackupSettingsMP.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsMP_1.2\BackupSettingsMP\InstallPaths.cs" "BackupSettingsMP\BackupSettingsMP\InstallPaths.cs" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" BackupSettingsTV_1.3\BackupSettingsTV.sln /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 3.5.30729.6387
+[Microsoft .NET Framework, Version 2.0.50727.6407]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Build started 19.12.2013 21:06:59.
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV.sln" on node 0 (default targets).
+  Building solution configuration "Release|Any CPU".
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV.sln" (1) is building "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsTV.csproj" (2) on node 0 (default targets).
+Project file contains ToolsVersion="4.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="3.5".
+EntityDeploy:
+  Processing 0 EDMX files.
+  Finished processing 0 EDMX files.
+CoreResGen:
+  Es gibt keine Ressourcen, die im Hinblick auf ihre Quelldateien veraltet sind. Die Ressourcengenerierung wird ausgelassen.
+BackupSettingsExportImport.cs(8095,41): warning CS0618: "TvDatabase.TvBusinessLayer.AddNewChannel(string)" ist veraltet: "use AddNewChannel(name, channelNumber)"
+CopyFilesToOutputDirectory:
+  Die Datei wird von "obj\Release\BackupSettingsTV.dll" in "bin\Release\BackupSettingsTV.dll" kopiert.
+  BackupSettingsTV -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\bin\Release\BackupSettingsTV.dll
+  Die Datei wird von "obj\Release\BackupSettingsTV.pdb" in "bin\Release\BackupSettingsTV.pdb" kopiert.
+IncrementalClean:
+  Die Datei "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\obj\Release\BackupSettingsTV.csprojResolveAssemblyReference.cache" wird gel”scht.
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsTV.csproj" (default targets).
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV.sln" (default targets).
+
+Build succeeded.
+
+"H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV.sln" (default target) (1) ->
+"H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV\BackupSettingsTV.csproj" (default target) (2) ->
+(CoreCompile target) -> 
+  BackupSettingsExportImport.cs(8095,41): warning CS0618: "TvDatabase.TvBusinessLayer.AddNewChannel(string)" ist veraltet: "use AddNewChannel(name, channelNumber)"
+
+    1 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.98
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" BackupSettingsTV_1.2\BackupSettingsTV.sln /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 3.5.30729.6387
+[Microsoft .NET Framework, Version 2.0.50727.6407]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Build started 19.12.2013 21:07:00.
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV.sln" on node 0 (default targets).
+  Building solution configuration "Release|Any CPU".
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV.sln" (1) is building "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsTV.csproj" (2) on node 0 (default targets).
+Project file contains ToolsVersion="4.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="3.5".
+EntityDeploy:
+  Processing 0 EDMX files.
+  Finished processing 0 EDMX files.
+CoreResGen:
+  Es gibt keine Ressourcen, die im Hinblick auf ihre Quelldateien veraltet sind. Die Ressourcengenerierung wird ausgelassen.
+CopyFilesToOutputDirectory:
+  Die Datei wird von "obj\Release\BackupSettingsTV.dll" in "bin\Release\BackupSettingsTV.dll" kopiert.
+  BackupSettingsTV -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\bin\Release\BackupSettingsTV.dll
+  Die Datei wird von "obj\Release\BackupSettingsTV.pdb" in "bin\Release\BackupSettingsTV.pdb" kopiert.
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\BackupSettingsTV.csproj" (default targets).
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV.sln" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.79
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" BackupSettingsTV_1.1RC2\BackupSettingsTV.sln /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 3.5.30729.6387
+[Microsoft .NET Framework, Version 2.0.50727.6407]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Build started 19.12.2013 21:07:03.
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV.sln" on node 0 (default targets).
+  Building solution configuration "Release|Any CPU".
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV.sln" (1) is building "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV\BackupSettingsTV.csproj" (2) on node 0 (default targets).
+Project file contains ToolsVersion="4.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="3.5".
+EntityDeploy:
+  Processing 0 EDMX files.
+  Finished processing 0 EDMX files.
+CoreResGen:
+  Es gibt keine Ressourcen, die im Hinblick auf ihre Quelldateien veraltet sind. Die Ressourcengenerierung wird ausgelassen.
+CopyFilesToOutputDirectory:
+  Die Datei wird von "obj\Release\BackupSettingsTV.dll" in "bin\Release\BackupSettingsTV.dll" kopiert.
+  BackupSettingsTV -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV\bin\Release\BackupSettingsTV.dll
+  Die Datei wird von "obj\Release\BackupSettingsTV.pdb" in "bin\Release\BackupSettingsTV.pdb" kopiert.
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV\BackupSettingsTV.csproj" (default targets).
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC2\BackupSettingsTV.sln" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.95
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" BackupSettingsTV_1.1RC1\BackupSettingsTV.sln /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 3.5.30729.6387
+[Microsoft .NET Framework, Version 2.0.50727.6407]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Build started 19.12.2013 21:07:04.
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV.sln" on node 0 (default targets).
+  Building solution configuration "Release|Any CPU".
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV.sln" (1) is building "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV\BackupSettingsTV.csproj" (2) on node 0 (default targets).
+Project file contains ToolsVersion="4.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="3.5".
+EntityDeploy:
+  Processing 0 EDMX files.
+  Finished processing 0 EDMX files.
+CoreResGen:
+  Es gibt keine Ressourcen, die im Hinblick auf ihre Quelldateien veraltet sind. Die Ressourcengenerierung wird ausgelassen.
+CopyFilesToOutputDirectory:
+  Die Datei wird von "obj\Release\BackupSettingsTV.dll" in "bin\Release\BackupSettingsTV.dll" kopiert.
+  BackupSettingsTV -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV\bin\Release\BackupSettingsTV.dll
+  Die Datei wird von "obj\Release\BackupSettingsTV.pdb" in "bin\Release\BackupSettingsTV.pdb" kopiert.
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV\BackupSettingsTV.csproj" (default targets).
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.1RC1\BackupSettingsTV.sln" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.96
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" BackupSettingsTV_1.0.1\BackupSettingsTV.sln /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 3.5.30729.6387
+[Microsoft .NET Framework, Version 2.0.50727.6407]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Build started 19.12.2013 21:07:06.
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV.sln" on node 0 (default targets).
+  Building solution configuration "Release|Any CPU".
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV.sln" (1) is building "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV\BackupSettingsTV.csproj" (2) on node 0 (default targets).
+Project file contains ToolsVersion="4.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="3.5".
+EntityDeploy:
+  Processing 0 EDMX files.
+  Finished processing 0 EDMX files.
+CoreResGen:
+  Es gibt keine Ressourcen, die im Hinblick auf ihre Quelldateien veraltet sind. Die Ressourcengenerierung wird ausgelassen.
+CopyFilesToOutputDirectory:
+  Die Datei wird von "obj\Release\BackupSettingsTV.dll" in "bin\Release\BackupSettingsTV.dll" kopiert.
+  BackupSettingsTV -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV\bin\Release\BackupSettingsTV.dll
+  Die Datei wird von "obj\Release\BackupSettingsTV.pdb" in "bin\Release\BackupSettingsTV.pdb" kopiert.
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV\BackupSettingsTV.csproj" (default targets).
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.0.1\BackupSettingsTV.sln" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.95
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" BackupSettingsMP_1.2\BackupSettingsMP.sln /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 3.5.30729.6387
+[Microsoft .NET Framework, Version 2.0.50727.6407]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Build started 19.12.2013 21:07:07.
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP.sln" on node 0 (default targets).
+  Building solution configuration "Release|Any CPU".
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP.sln" (1) is building "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\BackupSettingsMP.csproj" (2) on node 0 (default targets).
+Project file contains ToolsVersion="4.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="3.5".
+EntityDeploy:
+  Processing 0 EDMX files.
+  Finished processing 0 EDMX files.
+CopyFilesToOutputDirectory:
+  Die Datei wird von "obj\Release\BackupSettingsMP.dll" in "bin\Release\BackupSettingsMP.dll" kopiert.
+  BackupSettingsMP -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+  Die Datei wird von "obj\Release\BackupSettingsMP.pdb" in "bin\Release\BackupSettingsMP.pdb" kopiert.
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\BackupSettingsMP.csproj" (default targets).
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP.sln" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.73
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" BackupSettingsMP\BackupSettingsMP.sln /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 3.5.30729.6387
+[Microsoft .NET Framework, Version 2.0.50727.6407]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Build started 19.12.2013 21:07:08.
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP\BackupSettingsMP.sln" on node 0 (default targets).
+  Building solution configuration "Release|Any CPU".
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP\BackupSettingsMP.sln" (1) is building "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP\BackupSettingsMP\BackupSettingsMP.csproj" (2) on node 0 (default targets).
+Project file contains ToolsVersion="4.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="3.5".
+EntityDeploy:
+  Processing 0 EDMX files.
+  Finished processing 0 EDMX files.
+CopyFilesToOutputDirectory:
+  Die Datei wird von "obj\Release\BackupSettingsMP.dll" in "bin\Release\BackupSettingsMP.dll" kopiert.
+  BackupSettingsMP -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+  Die Datei wird von "obj\Release\BackupSettingsMP.pdb" in "bin\Release\BackupSettingsMP.pdb" kopiert.
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP\BackupSettingsMP\BackupSettingsMP.csproj" (default targets).
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP\BackupSettingsMP.sln" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.78
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" BackupSettingsMP.exe\BackupSettingsMP.exe.sln /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 3.5.30729.6387
+[Microsoft .NET Framework, Version 2.0.50727.6407]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Build started 19.12.2013 21:07:09.
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe.sln" on node 0 (default targets).
+  Building solution configuration "Release|Any CPU".
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe.sln" (1) is building "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\BackupSettingsMP.exe.csproj" (2) on node 0 (default targets).
+Project file contains ToolsVersion="4.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="3.5".
+EntityDeploy:
+  Processing 0 EDMX files.
+  Finished processing 0 EDMX files.
+CoreResGen:
+  Es gibt keine Ressourcen, die im Hinblick auf ihre Quelldateien veraltet sind. Die Ressourcengenerierung wird ausgelassen.
+_CopyAppConfigFile:
+Skipping target "_CopyAppConfigFile" because all output files are up-to-date with respect to the input files.
+CopyFilesToOutputDirectory:
+  Die Datei wird von "obj\Release\BackupSettingsMP.exe" in "bin\Release\BackupSettingsMP.exe" kopiert.
+  BackupSettingsMP.exe -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\bin\Release\BackupSettingsMP.exe
+  Die Datei wird von "obj\Release\BackupSettingsMP.pdb" in "bin\Release\BackupSettingsMP.pdb" kopiert.
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe\BackupSettingsMP.exe.csproj" (default targets).
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP.exe\BackupSettingsMP.exe.sln" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.62
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe" Install\Install.sln /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 3.5.30729.6387
+[Microsoft .NET Framework, Version 2.0.50727.6407]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Build started 19.12.2013 21:07:10.
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\Install\Install.sln" on node 0 (default targets).
+  Building solution configuration "Release|Any CPU".
+Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\Install\Install.sln" (1) is building "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\Install\Install\Install.csproj" (2) on node 0 (default targets).
+Project file contains ToolsVersion="4.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="3.5".
+EntityDeploy:
+  Processing 0 EDMX files.
+  Finished processing 0 EDMX files.
+CoreResGen:
+  Es gibt keine Ressourcen, die im Hinblick auf ihre Quelldateien veraltet sind. Die Ressourcengenerierung wird ausgelassen.
+_CopyAppConfigFile:
+Skipping target "_CopyAppConfigFile" because all output files are up-to-date with respect to the input files.
+CopyFilesToOutputDirectory:
+  Die Datei wird von "obj\Release\Install.exe" in "bin\Release\Install.exe" kopiert.
+  Install -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\Install\Install\bin\Release\Install.exe
+  Die Datei wird von "obj\Release\Install.pdb" in "bin\Release\Install.pdb" kopiert.
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\Install\Install\Install.csproj" (default targets).
+Done Building Project "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\Install\Install.sln" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.54
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>"C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe" "BackupSettingsMP2\BackupSettingsMP2.sln" /p:Configuration=Release 
+Microsoft (R)-Buildmodul, Version 4.0.30319.17929
+[Microsoft .NET Framework, Version 4.0.30319.18051]
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Die Projekte in dieser Projektmappe werden nacheinander erstellt. Um eine parallele Erstellung zu erm”glichen, mssen Sie den Schalter "/m" hinzufgen.
+Der Buildvorgang wurde am 19.12.2013 21:07:10 gestartet.
+Projekt "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\BackupSettingsMP2.sln" auf Knoten "1" (Standardziele).
+ValidateSolutionConfiguration:
+  Die Projektmappenkonfiguration "Release|x86" wird erstellt.
+Das Projekt "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\BackupSettingsMP2.sln" (1) erstellt "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\BackupSettingsMP2.csproj" (2) auf Knoten "1" (Standardziele).
+GenerateTargetFrameworkMonikerAttribute:
+Das Ziel "GenerateTargetFrameworkMonikerAttribute" wird bersprungen, da alle Ausgabedateien hinsichtlich der Eingabedateien aktuell sind.
+CoreCompile:
+Das Ziel "CoreCompile" wird bersprungen, da alle Ausgabedateien hinsichtlich der Eingabedateien aktuell sind.
+CopyFilesToOutputDirectory:
+  BackupSettingsMP2 -> H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\bin\x86\Release\BackupSettingsMP2.dll
+PostBuildEvent:
+  xcopy /Y "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\plugin.xml" "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\..\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\"
+  mkdir "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\..\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Language"
+  robocopy "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\Language" "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\..\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Language" /MIR /NP
+  mkdir "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\..\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Skin"
+  robocopy "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\Skin" "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\..\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Skin" /MIR /NP
+  xcopy /Y "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\bin\x86\Release\BackupSettingsMP2.dll"  "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\..\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\"
+  H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\plugin.xml
+  1 Datei(en) kopiert
+  Ein Unterverzeichnis oder eine Datei mit dem Namen "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\..\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Language" existiert bereits.
+  
+  -------------------------------------------------------------------------------
+     ROBOCOPY     ::     Robustes Dateikopieren fr Windows                              
+  -------------------------------------------------------------------------------
+  
+    Gestartet: Donnerstag, 19. Dezember 2013 21:07:11
+     Quelle : H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\Language\
+       Ziel : H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Language\
+  
+      Dateien : *.*
+  	    
+    Optionen: *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /R:1000000 /W:30 
+  
+  ------------------------------------------------------------------------------
+  
+  	                   2	H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\Language\
+  
+  ------------------------------------------------------------------------------
+  
+             Insgesamt   KopiertšbersprungenKeine šbereinstimmung    FEHLER    Extras
+  Verzeich.:         1         0         0         0         0         0
+    Dateien:         2         0         2         0         0         0
+      Bytes:       936         0       936         0         0         0
+     Zeiten:   0:00:00   0:00:00                       0:00:00   0:00:00
+     Beendet: Donnerstag, 19. Dezember 2013 21:07:11
+  
+  Ein Unterverzeichnis oder eine Datei mit dem Namen "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\..\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Skin" existiert bereits.
+  
+  -------------------------------------------------------------------------------
+     ROBOCOPY     ::     Robustes Dateikopieren fr Windows                              
+  -------------------------------------------------------------------------------
+  
+    Gestartet: Donnerstag, 19. Dezember 2013 21:07:11
+     Quelle : H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\Skin\
+       Ziel : H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Skin\
+  
+      Dateien : *.*
+  	    
+    Optionen: *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /R:1000000 /W:30 
+  
+  ------------------------------------------------------------------------------
+  
+  2013/12/19 21:07:11 FEHLER 2 (0x00000002) Zugriff auf Quellverzeichnis H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\Skin\
+  Das System kann die angegebene Datei nicht finden.
+  
+  H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\bin\x86\Release\BackupSettingsMP2.dll
+  1 Datei(en) kopiert
+Die Erstellung von Projekt "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\BackupSettingsMP2.csproj" ist abgeschlossen (Standardziele).
+Die Erstellung von Projekt "H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP2\BackupSettingsMP2.sln" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:00.31
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>REM ******************** END COMPILE  ******************** 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>REM ************************************************************************* 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>REM release All 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>REM ************************************************************************* 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>CD BackupSettings.Source 
+Das System kann den angegebenen Pfad nicht finden.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "Install\Install\bin\Release\Install.exe" "..\BackupSettings.Release\Install.exe" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "RestartSetupTV\RestartSetupTV\bin\Release\RestartSetupTV.exe" "..\BackupSettings.Release\RestartSetupTV.exe" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsMP\BackupSettingsMP\bin\Release\BackupSettingsMP.dll" "..\BackupSettings.Release\BackupSettingsMP\BackupSettingsMP.dll" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll" "..\BackupSettings.Release\BackupSettingsMP_1.2\BackupSettingsMP.dll" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsMP.exe\BackupSettingsMP.exe\bin\Release\BackupSettingsMP.exe" "..\BackupSettings.Release\BackupSettingsMP.exe" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsMP2\bin\x86\Debug\BackupSettingsMP2.dll" "..\BackupSettings.Release\BackupSettingsMP2\BackupSettingsMP2.dll" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsMP2\plugin.xml" "..\BackupSettings.Release\BackupSettingsMP2\plugin.xml" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsMP2\Language\strings_en.xml" "..\BackupSettings.Release\BackupSettingsMP2\Language\strings_en.xml" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.3\BackupSettingsTV\bin\Release\BackupSettingsTV.dll"    "..\BackupSettings.Release\BackupSettingsTV_1.3\BackupSettingsTV.dll" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.2\BackupSettingsTV\bin\Release\BackupSettingsTV.dll"    "..\BackupSettings.Release\BackupSettingsTV_1.2\BackupSettingsTV.dll" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.1RC2\BackupSettingsTV\bin\Release\BackupSettingsTV.dll" "..\BackupSettings.Release\BackupSettingsTV_1.1RC2\BackupSettingsTV.dll" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.1RC1\BackupSettingsTV\bin\Release\BackupSettingsTV.dll" "..\BackupSettings.Release\BackupSettingsTV_1.1RC1\BackupSettingsTV.dll" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>COPY /Y "BackupSettingsTV_1.0.1\BackupSettingsTV\bin\Release\BackupSettingsTV.dll" "..\BackupSettings.Release\BackupSettingsTV_1.0.1\BackupSettingsTV.dll" 
+        1 Datei(en) kopiert.
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>XCOPY "Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2" "..\BackupSettings.Release\BackupSettingsMP2"  /S /C /I /Y 
+Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\BackupSettingsMP2.dll
+Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\plugin.xml
+Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Language\strings_de.xml
+Bin\BackupSettingsMP2\bin\x86\Release\Plugins\BackupSettingsMP2\Language\strings_en.xml
+4 Datei(en) kopiert
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>REM ******************** END RELEASE ******************** 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source>CD "..\BackupSettings.Release" 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Release>Install.exe install 
+
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Release>"C:\Program Files (x86)\Team MediaPortal\MediaPortal TV Server\SetupTv.exe"

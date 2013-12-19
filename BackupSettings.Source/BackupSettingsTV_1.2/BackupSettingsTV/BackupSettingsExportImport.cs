@@ -256,7 +256,7 @@ namespace BackupSettingsPlugin
         bool PB_PAUSE = false;
         bool PB_CANCEL = false;
 
-        string pluginversion = "1.2.2.10";
+        string pluginversion = "1.2.2.12";
 
         string ActualBackupSettingsVersion = "NOT DEFINED";
         string ActualMediaPortalVersion = "NOT DEFINED";
@@ -2921,7 +2921,6 @@ namespace BackupSettingsPlugin
                 textoutput(motorCount + " DiSEqC motor settings exported");
                 rootElement.AppendChild(nodeMotors);
 
-
                 XmlNode nodeServers = xmlDoc.CreateElement("servers");
 #if(MP100)
                 IList servers = Server.ListAll();
@@ -2934,6 +2933,8 @@ namespace BackupSettingsPlugin
                 foreach (Server server in servers)
                 {
                     textoutput("Exporting server settings");
+
+
 
                     serverCount++;
                     XmlNode nodeServer = xmlDoc.CreateElement("server");
@@ -2950,22 +2951,47 @@ namespace BackupSettingsPlugin
                     }
 
 #endif
+                    
                     //card default settings
-                    setting = layer.GetSetting("lnbDefault", "NOTFOUND");
-                    if (setting.Value != "NOTFOUND")
+                    setting = layer.GetSetting("lnbDefault", "BACKUPSETTINGS_NOTFOUND");
+                    if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
+                    {
                         AddAttribute(nodeServer, "lnbDefault", setting.Value);
+                    }
+                    else
+                    {
+                        setting.Remove();
+                    }
 
-                    setting = layer.GetSetting("LnbLowFrequency", "NOTFOUND");
-                    if (setting.Value != "NOTFOUND")
+                    setting = layer.GetSetting("LnbLowFrequency", "BACKUPSETTINGS_NOTFOUND");
+                    if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
+                    {
                         AddAttribute(nodeServer, "LnbLowFrequency", setting.Value);
+                    }
+                    else
+                    {
+                        setting.Remove();
+                    }
 
-                    setting = layer.GetSetting("LnbHighFrequency", "NOTFOUND");
-                    if (setting.Value != "NOTFOUND")
+                    setting = layer.GetSetting("LnbHighFrequency", "BACKUPSETTINGS_NOTFOUND");
+                    if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
+                    {
                         AddAttribute(nodeServer, "LnbHighFrequency", setting.Value);
+                    }
+                    else
+                    {
+                        setting.Remove();
+                    }
 
-                    setting = layer.GetSetting("LnbSwitchFrequency", "NOTFOUND");
-                    if (setting.Value != "NOTFOUND")
+                    setting = layer.GetSetting("LnbSwitchFrequency", "BACKUPSETTINGS_NOTFOUND");
+                    if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
+                    {
                         AddAttribute(nodeServer, "LnbSwitchFrequency", setting.Value);
+                    }
+                    else
+                    {
+                        setting.Remove();
+                    }
 
 
                     textoutput("Exporting card settings");
@@ -2982,6 +3008,7 @@ namespace BackupSettingsPlugin
 
                     foreach (Card card in cards)
                     {
+                        
                         cardCount++;
                         XmlNode nodeCard = xmlDoc.CreateElement("card");
                         AddAttribute(nodeCard, "IdCard", (int)card.IdCard);
@@ -3022,170 +3049,165 @@ namespace BackupSettingsPlugin
                         //Export Tvlayer card settings for scanning
 
                         //Analog
-                        setting = layer.GetSetting("analog" + card.IdCard.ToString() + "Country", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("analog" + card.IdCard.ToString() + "Country", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "analog" + card.IdCard.ToString() + "Country", setting.Value);
 
-                        setting = layer.GetSetting("analog" + card.IdCard.ToString() + "Source", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("analog" + card.IdCard.ToString() + "Source", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "analog" + card.IdCard.ToString() + "Source", setting.Value);
 
                         //ATSC
-                        setting = layer.GetSetting("atsc" + card.IdCard.ToString() + "supportsqam", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("atsc" + card.IdCard.ToString() + "supportsqam", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "atsc" + card.IdCard.ToString() + "supportsqam", setting.Value);
 
                         //DVBC
-                        setting = layer.GetSetting("dvbc" + card.IdCard.ToString() + "Country", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbc" + card.IdCard.ToString() + "Country", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbc" + card.IdCard.ToString() + "Country", setting.Value);
 
-                        setting = layer.GetSetting("dvbc" + card.IdCard.ToString() + "creategroups", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbc" + card.IdCard.ToString() + "creategroups", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbc" + card.IdCard.ToString() + "creategroups", setting.Value);
 
                         //DVBS
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "SatteliteContext1", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "SatteliteContext1", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "SatteliteContext1", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "SatteliteContext2", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "SatteliteContext2", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "SatteliteContext2", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "SatteliteContext3", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "SatteliteContext3", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "SatteliteContext3", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "SatteliteContext4", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "SatteliteContext4", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "SatteliteContext4", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "DisEqc1", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "DisEqc1", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "DisEqc1", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "DisEqc2", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "DisEqc2", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "DisEqc2", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "DisEqc3", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "DisEqc3", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "DisEqc3", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "DisEqc4", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "DisEqc4", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "DisEqc4", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "band1", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "band1", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "band1", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "band2", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "band2", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "band2", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "band3", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "band3", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "band3", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "band4", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "band4", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "band4", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB1", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB1", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "LNB1", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB2", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB2", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "LNB2", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB3", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB3", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "LNB3", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB4", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB4", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "LNB4", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB1", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB1", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "LNB1", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB2", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB2", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "LNB2", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB3", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB3", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "LNB3", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB4", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "LNB4", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "LNB4", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "creategroups", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "creategroups", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "creategroups", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "creategroupssat", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "creategroupssat", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "creategroupssat", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "createsignalgroup", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "createsignalgroup", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "createsignalgroup", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "enabledvbs2", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "enabledvbs2", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "enabledvbs2", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "limitsEnabled", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "limitsEnabled", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "limitsEnabled", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "motorEnabled", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "motorEnabled", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "motorEnabled", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "motorStepSize", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "motorStepSize", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "motorStepSize", setting.Value);
 
-                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "selectedMotorSat", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbs" + card.IdCard.ToString() + "selectedMotorSat", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbs" + card.IdCard.ToString() + "selectedMotorSat", setting.Value);
 
 
                         //DVBT
-                        setting = layer.GetSetting("dvbt" + card.IdCard.ToString() + "Country", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbt" + card.IdCard.ToString() + "Country", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbt" + card.IdCard.ToString() + "Country", setting.Value);
 
-                        setting = layer.GetSetting("dvbt" + card.IdCard.ToString() + "creategroups", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbt" + card.IdCard.ToString() + "creategroups", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbt" + card.IdCard.ToString() + "creategroups", setting.Value);
 
 
                         //DVBIP
-                        setting = layer.GetSetting("dvbip" + card.IdCard.ToString() + "Service", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbip" + card.IdCard.ToString() + "Service", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbip" + card.IdCard.ToString() + "Service", setting.Value);
 
-                        setting = layer.GetSetting("dvbip" + card.IdCard.ToString() + "creategroups", "NOTFOUND");
-                        if (setting.Value != "NOTFOUND")
+                        setting = layer.GetSetting("dvbip" + card.IdCard.ToString() + "creategroups", "BACKUPSETTINGS_NOTFOUND");
+                        if ((setting.Value != "BACKUPSETTINGS_NOTFOUND") && (setting.Value != "NOTFOUND"))
                             AddAttribute(nodeCard, "dvbip" + card.IdCard.ToString() + "creategroups", setting.Value);
-
-
-
 
                         nodeCards.AppendChild(nodeCard);
                     }
                     nodeServer.AppendChild(nodeCards);
                     nodeServers.AppendChild(nodeServer);
-
-
 
                 }
 
@@ -3824,7 +3846,7 @@ namespace BackupSettingsPlugin
                         {
                             foreach (TvMovieMapping mapping in mappingDb)
                             {
-
+                                
                                 try
                                 {
                                     tvmovieCount++;
@@ -3870,12 +3892,6 @@ namespace BackupSettingsPlugin
                 rootElement.AppendChild(TVMovieMappings);
                 textoutput(tvmovieCount + " TV movie mappings exported");
 
-
-
-
-
-
-
                 // export All  Settings
                 textoutput("Exporting all settings");
 
@@ -3903,37 +3919,75 @@ namespace BackupSettingsPlugin
                 // End of SQL Query
 
                 int ctr = 0;
+
+                textoutput("Removing temporary settings:");
                 foreach (Setting mysetting in mysettinglist)
                 {
                     try
                     {
 
-                        if (mysetting.Tag.StartsWith("dvbs") == true)
-                            continue;
-                        else if (mysetting.Tag.StartsWith("dvbt") == true)
-                            continue;
-                        else if (mysetting.Tag.StartsWith("dvbc") == true)
-                            continue;
-                        else if (mysetting.Tag.StartsWith("dvbip") == true)
-                            continue;
-                        else if (mysetting.Tag.StartsWith("atsc") == true)
-                            continue;
-                        else if (mysetting.Tag.StartsWith("analog") == true)
-                            continue;
-                        else if (mysetting.Tag.StartsWith("Backup_SettingsSetup_debug") == true)
-                            continue;
+                        //legacy Delete for old leftovers (not found settings from Version 1.2.0.5 and older could have left "NOTFOUND" settings for cards)                   
+                        if ((mysetting.Tag.StartsWith("analog")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
+                        {
+                            textoutput("Removing Setting " + mysetting.Tag + " Value="+mysetting.Value);
+                            mysetting.Remove();
+                        }
+                        else if ((mysetting.Tag.StartsWith("atsc")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
+                        {
+                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            mysetting.Remove();
+                        }
+                        else if ((mysetting.Tag.StartsWith("dvbc")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
+                        {
+                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            mysetting.Remove();
+                        }
+                        else if ((mysetting.Tag.StartsWith("dvbs")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
+                        {
+                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            mysetting.Remove();
+                        }
+                        else if ((mysetting.Tag.StartsWith("dvbt")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
+                        {
+                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            mysetting.Remove();
+                        }
+                        else if ((mysetting.Tag.StartsWith("dvbip")) && ((mysetting.Value == "NOTFOUND") || (mysetting.Value == "BACKUPSETTINGS_NOTFOUND")))
+                        {
+                            textoutput("Removing Setting " + mysetting.Tag + " Value=" + mysetting.Value);
+                            mysetting.Remove();
+                        }//end remove temporary settings
+                        else
+                        {
 
-                        XmlNode nodesetting = xmlDoc.CreateElement("Setting");
-                        string tag = mysetting.Tag.Replace(" ", "__SPACE__");  //do not forget to reconvert during import
-                        tag = tag.Replace("+", "__PLUS__");  //do not forget to reconvert during import
-                        string value = mysetting.Value.Replace("\n", "__RETURN__");  //do not forget to reconvert during import
+                            //jump over card settings
+                            if (mysetting.Tag.StartsWith("dvbs") == true)
+                                continue;
+                            else if (mysetting.Tag.StartsWith("dvbt") == true)
+                                continue;
+                            else if (mysetting.Tag.StartsWith("dvbc") == true)
+                                continue;
+                            else if (mysetting.Tag.StartsWith("dvbip") == true)
+                                continue;
+                            else if (mysetting.Tag.StartsWith("atsc") == true)
+                                continue;
+                            else if (mysetting.Tag.StartsWith("analog") == true)
+                                continue;
+                            else if (mysetting.Tag.StartsWith("Backup_SettingsSetup_debug") == true)
+                                continue;
 
-                        AddAttribute(nodesetting, tag, value);
-                        AllSettings.AppendChild(nodesetting);
-                        if (DEBUG)
-                            textoutput(tag + " :  " + value);
+                            XmlNode nodesetting = xmlDoc.CreateElement("Setting");
+                            string tag = mysetting.Tag.Replace(" ", "__SPACE__");  //do not forget to reconvert during import - do not change
+                            tag = tag.Replace("+", "__PLUS__");  //do not forget to reconvert during import - do not change
+                            string value = mysetting.Value.Replace("\n", "__RETURN__");  //do not forget to reconvert during import - do not change
 
-                        ctr++;
+                            AddAttribute(nodesetting, tag, value);
+                            AllSettings.AppendChild(nodesetting);
+                            if (DEBUG)
+                                textoutput(tag + " :  " + value);
+
+                            ctr++;
+                        }
                     }
                     catch (Exception exc)
                     {
@@ -4645,7 +4699,7 @@ namespace BackupSettingsPlugin
             }
             catch
             {
-                ActualMediaPortalVersion = "NOTFOUND";
+                ActualMediaPortalVersion = "BACKUPSETTINGS_NOTFOUND";
             }
 
             //ActualTvServerVersion
@@ -4656,7 +4710,7 @@ namespace BackupSettingsPlugin
             }
             catch
             {
-                ActualTvServerVersion = "NOTFOUND";
+                ActualTvServerVersion = "BACKUPSETTINGS_NOTFOUND";
             }
 
             //ActualMP2ServerVersion
@@ -4667,7 +4721,7 @@ namespace BackupSettingsPlugin
             }
             catch
             {
-                ActualMP2ServerVersion = "NOTFOUND";
+                ActualMP2ServerVersion = "BACKUPSETTINGS_NOTFOUND";
             }
 
             //ActualMP2ClientVersion
@@ -4678,7 +4732,7 @@ namespace BackupSettingsPlugin
             }
             catch
             {
-                ActualMP2ClientVersion = "NOTFOUND";
+                ActualMP2ClientVersion = "BACKUPSETTINGS_NOTFOUND";
             }
 
             if (both)
@@ -7274,6 +7328,9 @@ namespace BackupSettingsPlugin
 
                 }
 
+                
+
+
                 //import servers and cards
                 if (server == true)
                 {
@@ -7590,50 +7647,51 @@ namespace BackupSettingsPlugin
 
 
                                 //Import card settings for scanning
+                                //NOTFOUND values are filtered out during Tvserverimport
                                 //Analog
-                                PostImport(doc, nodecard, "analog" + dbserverCard.IdCard.ToString() + "Country", "NOTFOUND");
-                                PostImport(doc, nodecard, "analog" + dbserverCard.IdCard.ToString() + "Source", "NOTFOUND");
+                                PostImport(doc, nodecard, "analog" + dbserverCard.IdCard.ToString() + "Country", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "analog" + dbserverCard.IdCard.ToString() + "Source", "BACKUPSETTINGS_NOTFOUND");
                                 //ATSC
-                                PostImport(doc, nodecard, "atsc" + dbserverCard.IdCard.ToString() + "supportsqam", "NOTFOUND");
+                                PostImport(doc, nodecard, "atsc" + dbserverCard.IdCard.ToString() + "supportsqam", "BACKUPSETTINGS_NOTFOUND");
                                 //DVBC
-                                PostImport(doc, nodecard, "dvbc" + dbserverCard.IdCard.ToString() + "Country", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbc" + dbserverCard.IdCard.ToString() + "creategroups", "NOTFOUND");
+                                PostImport(doc, nodecard, "dvbc" + dbserverCard.IdCard.ToString() + "Country", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbc" + dbserverCard.IdCard.ToString() + "creategroups", "BACKUPSETTINGS_NOTFOUND");
                                 //DVBS
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "SatteliteContext1", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "SatteliteContext2", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "SatteliteContext3", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "SatteliteContext4", "NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "SatteliteContext1", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "SatteliteContext2", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "SatteliteContext3", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "SatteliteContext4", "BACKUPSETTINGS_NOTFOUND");
 
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "DisEqc1", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "DisEqc2", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "DisEqc3", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "DisEqc4", "NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "DisEqc1", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "DisEqc2", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "DisEqc3", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "DisEqc4", "BACKUPSETTINGS_NOTFOUND");
 
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "band1", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "band2", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "band3", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "band4", "NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "band1", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "band2", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "band3", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "band4", "BACKUPSETTINGS_NOTFOUND");
 
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "LNB1", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "LNB2", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "LNB3", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "LNB4", "NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "LNB1", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "LNB2", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "LNB3", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "LNB4", "BACKUPSETTINGS_NOTFOUND");
 
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "creategroups", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "creategroupssat", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "createsignalgroup", "NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "creategroups", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "creategroupssat", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "createsignalgroup", "BACKUPSETTINGS_NOTFOUND");
 
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "enabledvbs2", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "limitsEnabled", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "motorEnabled", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "motorStepSize", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "selectedMotorSat", "NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "enabledvbs2", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "limitsEnabled", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "motorEnabled", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "motorStepSize", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbs" + dbserverCard.IdCard.ToString() + "selectedMotorSat", "BACKUPSETTINGS_NOTFOUND");
                                 //DVBT
-                                PostImport(doc, nodecard, "dvbt" + dbserverCard.IdCard.ToString() + "Country", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbt" + dbserverCard.IdCard.ToString() + "creategroups", "NOTFOUND");
+                                PostImport(doc, nodecard, "dvbt" + dbserverCard.IdCard.ToString() + "Country", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbt" + dbserverCard.IdCard.ToString() + "creategroups", "BACKUPSETTINGS_NOTFOUND");
                                 //DVBIP
-                                PostImport(doc, nodecard, "dvbip" + dbserverCard.IdCard.ToString() + "Service", "NOTFOUND");
-                                PostImport(doc, nodecard, "dvbip" + dbserverCard.IdCard.ToString() + "creategroups", "NOTFOUND");
+                                PostImport(doc, nodecard, "dvbip" + dbserverCard.IdCard.ToString() + "Service", "BACKUPSETTINGS_NOTFOUND");
+                                PostImport(doc, nodecard, "dvbip" + dbserverCard.IdCard.ToString() + "creategroups", "BACKUPSETTINGS_NOTFOUND");
 
 
 
@@ -8924,9 +8982,6 @@ namespace BackupSettingsPlugin
                     progressbar((int)PB_action.STOP, ref PB_Import, (int)PB_part.TV_Radiogroups);
                 }
 
-
-
-
                 if (general_settings == true)
                 {
                     // import all settings
@@ -8940,14 +8995,15 @@ namespace BackupSettingsPlugin
                         XmlAttributeCollection allattributes = nodesetting.Attributes;
                         try
                         {
-                            string myattribute = allattributes[0].Name.Replace("__SPACE__", " "); //reconverting attributes
-                            myattribute = myattribute.Replace("__PLUS__", "+"); //reconverting attributes
-
-
+                            string myattribute = allattributes[0].Name.Replace("__SPACE__", " "); //reconverting attributes from export - do not change
+                            myattribute = myattribute.Replace("__PLUS__", "+"); //reconverting attributes from export - do not change
+                            
                             if (DEBUG)
                                 textoutput("Attribute: " + myattribute + "    Value=" + allattributes[0].Value);
+
                             PostImport(doc, nodesetting, myattribute);
                             ctr++;
+                            
                         }
                         catch
                         {
@@ -9299,76 +9355,6 @@ namespace BackupSettingsPlugin
             return true;
         }
 
-        private void savedata(XmlDocument doc, XmlNode node, string attribute, string defaultvalue, string xmlattribute)
-        {
-            TvBusinessLayer layer = new TvBusinessLayer();
-
-
-            Setting setting = layer.GetSetting(xmlattribute, defaultvalue);
-            try
-            {
-                setting.Value = node.Attributes[attribute].Value;
-            }
-            catch
-            {
-                setting.Value = defaultvalue;
-                textoutput("Defaultvalue added for " + attribute);
-            }
-            setting.Persist();
-            if (DEBUG)
-            {
-                textoutput("BackupSettings Import: " + attribute);
-                //textoutput("BackupSettings Import: " + attribute + " = " + setting.Value);
-            }
-
-        }
-        private void savedata(XmlDocument doc, XmlNode node, string attribute, string defaultvalue)
-        {
-            TvBusinessLayer layer = new TvBusinessLayer();
-            Setting setting = layer.GetSetting(attribute, defaultvalue);
-            try
-            {
-                setting.Value = node.Attributes[attribute].Value;
-            }
-            catch
-            {
-                setting.Value = defaultvalue;
-                textoutput("Defaultvalue added for " + attribute);
-            }
-            setting.Persist();
-            if (DEBUG)
-            {
-                textoutput("BackupSettings Import: " + attribute);
-                //textoutput("BackupSettings Import: " + attribute + " = " + setting.Value);
-            }
-
-        }
-        private void savedata(XmlDocument doc, XmlNode node, string attribute)
-        {
-            string text = "NOTFOUND";
-            try
-            {
-                TvBusinessLayer layer = new TvBusinessLayer();
-                Setting setting = layer.GetSetting(attribute, "NOTFOUND");
-                setting.Value = node.Attributes[attribute].Value;
-                if (setting.Value != "NOTFOUND")
-                    setting.Persist();
-
-                text = setting.Value;
-
-            }
-            catch
-            {
-                // do nothing in case of non existing data
-            }
-            if (DEBUG)
-            {
-                textoutput("BackupSettings Import: " + attribute);
-                //textoutput("BackupSettings Import: " + attribute + " = " + text);
-            }
-
-        }
-
         private void PostImport(XmlDocument doc, XmlNode node, string attribute, string defaultvalue, string xmlattribute)
         {
             string setting = "";
@@ -9486,8 +9472,8 @@ namespace BackupSettingsPlugin
         public string CreateAutomatedFolderName(string folderpath,WhoAmI ident)
         {
             //create automated foldername
-            
-            string versionNumber = "NOTFOUND";
+
+            string versionNumber = "BACKUPSETTINGS_NOTFOUND";
             getallversionnumbers("", false);
 
             if (ident==WhoAmI.Tv_Server)

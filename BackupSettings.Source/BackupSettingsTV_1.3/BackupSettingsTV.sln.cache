@@ -31,11 +31,11 @@
     <AspNetConfiguration>$(Configuration)</AspNetConfiguration>
   </PropertyGroup>
   <PropertyGroup>
-    <SolutionDir>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.9.Source\BackupSettingsTV_1.3\</SolutionDir>
+    <SolutionDir>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\</SolutionDir>
     <SolutionExt>.sln</SolutionExt>
     <SolutionFileName>BackupSettingsTV.sln</SolutionFileName>
     <SolutionName>BackupSettingsTV</SolutionName>
-    <SolutionPath>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.9\BackupSettingsV1.2.2.9.Source\BackupSettingsTV_1.3\BackupSettingsTV.sln</SolutionPath>
+    <SolutionPath>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.3\BackupSettingsTV.sln</SolutionPath>
   </PropertyGroup>
   <PropertyGroup>
     <TargetFrameworkVersion Condition="'$(TargetFrameworkVersion)' == '' and '$(MSBuildToolsVersion)' == '2.0'">v2.0</TargetFrameworkVersion>

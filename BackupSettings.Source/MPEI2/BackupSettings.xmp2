@@ -13,114 +13,114 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettings.pdf</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{dcf37412-46f5-40ee-a9d2-0b2b3a48a4f1}-BackupSettings.pdf</ZipFileName>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettings.pdf</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{113ce56a-83df-43ae-94fd-4aa448685bb8}-BackupSettings.pdf</ZipFileName>
               <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettings.pdf</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP.exe</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{dd4a5d03-d73b-47ee-bc0c-30cdc340fadb}-BackupSettingsMP.exe</ZipFileName>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP.exe</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4ae3b305-0a0e-4bab-9a90-d7228107d081}-BackupSettingsMP.exe</ZipFileName>
               <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP.exe</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\Install.exe</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{f3d85837-747a-4784-accd-01cde88e1554}-Install.exe</ZipFileName>
+              <LocalFileName>..\..\BackupSettings.Release\Install.exe</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d0a9b524-d5cf-48a9-92e5-95218ef5c515}-Install.exe</ZipFileName>
               <DestinationFilename>%Config%\Installer\BackupSettings\Install.exe</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\License.txt</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{a235a248-033d-4483-bd5d-89a8e2b900f7}-License.txt</ZipFileName>
+              <LocalFileName>..\..\BackupSettings.Release\License.txt</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{827ca2b9-b6c1-44d4-a5ac-0f627d0a8bc2}-License.txt</ZipFileName>
               <DestinationFilename>%Config%\Installer\BackupSettings\License.txt</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\RestartSetupTV.exe</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{22879694-e054-4471-9729-c8ce0f96449c}-RestartSetupTV.exe</ZipFileName>
+              <LocalFileName>..\..\BackupSettings.Release\RestartSetupTV.exe</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d987ad18-38c7-4e8e-9fb5-d7394114c4f9}-RestartSetupTV.exe</ZipFileName>
               <DestinationFilename>%Config%\Installer\BackupSettings\RestartSetupTV.exe</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.3\BackupSettingsTV.dll</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{0e3f9d90-fdf1-4bf8-b953-7cc0c85369be}-BackupSettingsTV.dll</ZipFileName>
-              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.3\BackupSettingsTV.dll</DestinationFilename>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP\BackupSettingsMP.dll</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f15e5ac3-30de-4c33-a9c3-b366ccb7072c}-BackupSettingsMP.dll</ZipFileName>
+              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP\BackupSettingsMP.dll</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.2\BackupSettingsTV.dll</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{fbbf3721-d18a-427f-adac-e23e22ff34a5}-BackupSettingsTV.dll</ZipFileName>
-              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.2\BackupSettingsTV.dll</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.1RC2\BackupSettingsTV.dll</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{a229c865-263f-4062-b0a3-a522464f42dc}-BackupSettingsTV.dll</ZipFileName>
-              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.1RC2\BackupSettingsTV.dll</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.1RC1\BackupSettingsTV.dll</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{3029ec8b-da03-4963-bf07-1ebc5ba2a35e}-BackupSettingsTV.dll</ZipFileName>
-              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.1RC1\BackupSettingsTV.dll</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.0.1\BackupSettingsTV.dll</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{08c314ff-d6ca-4358-a0ca-eab3887ebb48}-BackupSettingsTV.dll</ZipFileName>
-              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.0.1\BackupSettingsTV.dll</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP_1.2\BackupSettingsMP.dll</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{c3c4e755-b298-44d5-b933-69fd94fcf0e2}-BackupSettingsMP.dll</ZipFileName>
-              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP_1.2\BackupSettingsMP.dll</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP2\BackupSettingsMP2.dll</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{9a8a55cb-178c-44a7-8195-1d3cac500dc5}-BackupSettingsMP2.dll</ZipFileName>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP2\BackupSettingsMP2.dll</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d8d7bab5-633e-44d1-a6c4-505b2dbc6915}-BackupSettingsMP2.dll</ZipFileName>
               <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP2\BackupSettingsMP2.dll</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP2\plugin.xml</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{661125fa-b569-46e1-9652-4bf3dd164cb3}-plugin.xml</ZipFileName>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP2\plugin.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2b84c5a5-fdf7-4474-a665-694f3a2dac98}-plugin.xml</ZipFileName>
               <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP2\plugin.xml</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP2\Language\strings_de.xml</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{d919f416-1458-488e-b60c-df42c2966ffc}-strings_de.xml</ZipFileName>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP2\Language\strings_de.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{30e6faf8-c292-40f1-9e7e-da887846e79b}-strings_de.xml</ZipFileName>
               <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP2\Language\strings_de.xml</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP2\Language\strings_en.xml</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{d9294a5b-e61f-4097-ae57-ebb8d037bd82}-strings_en.xml</ZipFileName>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP2\Language\strings_en.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2b893599-8cc7-4351-9066-047706cbf35c}-strings_en.xml</ZipFileName>
               <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP2\Language\strings_en.xml</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP\BackupSettingsMP.dll</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{232306c3-3240-4c3f-838c-a1586189d99b}-BackupSettingsMP.dll</ZipFileName>
-              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP\BackupSettingsMP.dll</DestinationFilename>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP_1.2\BackupSettingsMP.dll</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{55495b2b-31bd-48d7-9e09-cde69002b85b}-BackupSettingsMP.dll</ZipFileName>
+              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP_1.2\BackupSettingsMP.dll</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.0.1\BackupSettingsTV.dll</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c75609d6-b99b-4419-bb5a-4d09fd3e2c26}-BackupSettingsTV.dll</ZipFileName>
+              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.0.1\BackupSettingsTV.dll</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.1RC1\BackupSettingsTV.dll</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{397d9a81-1674-4c5c-a6d9-589fb69ed7cb}-BackupSettingsTV.dll</ZipFileName>
+              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.1RC1\BackupSettingsTV.dll</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.1RC2\BackupSettingsTV.dll</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ea4b589b-8bde-4598-a10c-012ab22f8d7a}-BackupSettingsTV.dll</ZipFileName>
+              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.1RC2\BackupSettingsTV.dll</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.2\BackupSettingsTV.dll</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4c18690e-ae5f-48fa-b1d9-76056454d755}-BackupSettingsTV.dll</ZipFileName>
+              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.2\BackupSettingsTV.dll</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.3\BackupSettingsTV.dll</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{29b29464-f0cf-419b-b754-3e8835cc62a6}-BackupSettingsTV.dll</ZipFileName>
+              <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.3\BackupSettingsTV.dll</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -242,7 +242,7 @@
       <Major>1</Major>
       <Minor>2</Minor>
       <Build>2</Build>
-      <Revision>10</Revision>
+      <Revision>12</Revision>
     </Version>
     <ExtensionDescription>No more manual typing of user settings after a new reinstall of TV Server and Media Portal.
 
@@ -261,21 +261,19 @@ It also creates a backup of your Media Portal user settings, plugins, skins, inp
 
 
 The plugin can be used with or without Tv server installation.</ExtensionDescription>
-    <VersionDescription>Version 1.2.2.10
--  renamed automated backupfolders from  &lt;automated backupfolder&gt;\Backup001 to &lt;automated backupfolder&gt;\BackupSettingsBackup001, ...
--  automatic version/date creation as a default for the foldername (user can disable function) in the Tvserver and client plugins 
--  minor GUI bug fixes in client
+    <VersionDescription>Version 1.2.2.12
+-cleanup of „NOTFOUND“ Settings for any cards during export (thanks to wjw and mm1352000)
 
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>http://www.team-mediaportal.com/index.php?option=com_mtree&amp;task=att_download&amp;link_id=74&amp;cf_id=24</OnlineLocation>
-    <ReleaseDate>2013-03-30T18:27:26</ReleaseDate>
+    <ReleaseDate>2013-12-19T18:27:26</ReleaseDate>
     <Tags>automation,tv server plugins,backupsettings</Tags>
-    <Location>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\MPEI2\BackupSettings.Ver.1.2.2.10.mpe1</Location>
+    <Location>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\MPEI2\BackupSettings.Ver.1.2.2.12.mpe1</Location>
     <Params>
       <Items>
         <SectionParam Name="Icon">
-          <Value>..\..\..\BackupSettings.Icon.png</Value>
+          <Value />
           <ValueType>File</ValueType>
           <Description>The icon file of the package (jpg,png,bmp)</Description>
         </SectionParam>
@@ -320,120 +318,120 @@ http://www.team-mediaportal.com/components/com_mtree/img/listings/m/1396.jpg</Va
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettings.pdf</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{dcf37412-46f5-40ee-a9d2-0b2b3a48a4f1}-BackupSettings.pdf</ZipFileName>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettings.pdf</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{113ce56a-83df-43ae-94fd-4aa448685bb8}-BackupSettings.pdf</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettings.pdf</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP.exe</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{dd4a5d03-d73b-47ee-bc0c-30cdc340fadb}-BackupSettingsMP.exe</ZipFileName>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP.exe</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4ae3b305-0a0e-4bab-9a90-d7228107d081}-BackupSettingsMP.exe</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP.exe</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\Install.exe</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{f3d85837-747a-4784-accd-01cde88e1554}-Install.exe</ZipFileName>
+        <LocalFileName>..\..\BackupSettings.Release\Install.exe</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d0a9b524-d5cf-48a9-92e5-95218ef5c515}-Install.exe</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings\Install.exe</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\License.txt</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{a235a248-033d-4483-bd5d-89a8e2b900f7}-License.txt</ZipFileName>
+        <LocalFileName>..\..\BackupSettings.Release\License.txt</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{827ca2b9-b6c1-44d4-a5ac-0f627d0a8bc2}-License.txt</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings\License.txt</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\RestartSetupTV.exe</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{22879694-e054-4471-9729-c8ce0f96449c}-RestartSetupTV.exe</ZipFileName>
+        <LocalFileName>..\..\BackupSettings.Release\RestartSetupTV.exe</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d987ad18-38c7-4e8e-9fb5-d7394114c4f9}-RestartSetupTV.exe</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings\RestartSetupTV.exe</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.3\BackupSettingsTV.dll</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{0e3f9d90-fdf1-4bf8-b953-7cc0c85369be}-BackupSettingsTV.dll</ZipFileName>
-        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.3\BackupSettingsTV.dll</DestinationFilename>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP\BackupSettingsMP.dll</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f15e5ac3-30de-4c33-a9c3-b366ccb7072c}-BackupSettingsMP.dll</ZipFileName>
+        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP\BackupSettingsMP.dll</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.2\BackupSettingsTV.dll</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{fbbf3721-d18a-427f-adac-e23e22ff34a5}-BackupSettingsTV.dll</ZipFileName>
-        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.2\BackupSettingsTV.dll</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.1RC2\BackupSettingsTV.dll</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{a229c865-263f-4062-b0a3-a522464f42dc}-BackupSettingsTV.dll</ZipFileName>
-        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.1RC2\BackupSettingsTV.dll</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.1RC1\BackupSettingsTV.dll</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{3029ec8b-da03-4963-bf07-1ebc5ba2a35e}-BackupSettingsTV.dll</ZipFileName>
-        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.1RC1\BackupSettingsTV.dll</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsTV_1.0.1\BackupSettingsTV.dll</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{08c314ff-d6ca-4358-a0ca-eab3887ebb48}-BackupSettingsTV.dll</ZipFileName>
-        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.0.1\BackupSettingsTV.dll</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP_1.2\BackupSettingsMP.dll</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{c3c4e755-b298-44d5-b933-69fd94fcf0e2}-BackupSettingsMP.dll</ZipFileName>
-        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP_1.2\BackupSettingsMP.dll</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP2\BackupSettingsMP2.dll</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{9a8a55cb-178c-44a7-8195-1d3cac500dc5}-BackupSettingsMP2.dll</ZipFileName>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP2\BackupSettingsMP2.dll</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d8d7bab5-633e-44d1-a6c4-505b2dbc6915}-BackupSettingsMP2.dll</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP2\BackupSettingsMP2.dll</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP2\plugin.xml</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{661125fa-b569-46e1-9652-4bf3dd164cb3}-plugin.xml</ZipFileName>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP2\plugin.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2b84c5a5-fdf7-4474-a665-694f3a2dac98}-plugin.xml</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP2\plugin.xml</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP2\Language\strings_de.xml</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{d919f416-1458-488e-b60c-df42c2966ffc}-strings_de.xml</ZipFileName>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP2\Language\strings_de.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{30e6faf8-c292-40f1-9e7e-da887846e79b}-strings_de.xml</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP2\Language\strings_de.xml</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP2\Language\strings_en.xml</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{d9294a5b-e61f-4097-ae57-ebb8d037bd82}-strings_en.xml</ZipFileName>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP2\Language\strings_en.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2b893599-8cc7-4351-9066-047706cbf35c}-strings_en.xml</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP2\Language\strings_en.xml</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\..\BackupSettingsV1.2.2.10.Release\BackupSettingsMP\BackupSettingsMP.dll</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{232306c3-3240-4c3f-838c-a1586189d99b}-BackupSettingsMP.dll</ZipFileName>
-        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP\BackupSettingsMP.dll</DestinationFilename>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsMP_1.2\BackupSettingsMP.dll</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{55495b2b-31bd-48d7-9e09-cde69002b85b}-BackupSettingsMP.dll</ZipFileName>
+        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsMP_1.2\BackupSettingsMP.dll</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.0.1\BackupSettingsTV.dll</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c75609d6-b99b-4419-bb5a-4d09fd3e2c26}-BackupSettingsTV.dll</ZipFileName>
+        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.0.1\BackupSettingsTV.dll</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.1RC1\BackupSettingsTV.dll</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{397d9a81-1674-4c5c-a6d9-589fb69ed7cb}-BackupSettingsTV.dll</ZipFileName>
+        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.1RC1\BackupSettingsTV.dll</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.1RC2\BackupSettingsTV.dll</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ea4b589b-8bde-4598-a10c-012ab22f8d7a}-BackupSettingsTV.dll</ZipFileName>
+        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.1RC2\BackupSettingsTV.dll</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.2\BackupSettingsTV.dll</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4c18690e-ae5f-48fa-b1d9-76056454d755}-BackupSettingsTV.dll</ZipFileName>
+        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.2\BackupSettingsTV.dll</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\..\BackupSettings.Release\BackupSettingsTV_1.3\BackupSettingsTV.dll</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{29b29464-f0cf-419b-b754-3e8835cc62a6}-BackupSettingsTV.dll</ZipFileName>
+        <DestinationFilename>%Config%\Installer\BackupSettings\BackupSettingsTV_1.3\BackupSettingsTV.dll</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\..\..\BackupSettings.Icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{ccbd9a1c-a7fc-419e-b487-c79c5b4a3f5a}-BackupSettings.Icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{fb5056ba-d398-4e7d-b401-6b7ae90358b0}-BackupSettings.Icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
@@ -446,13 +444,23 @@ http://www.team-mediaportal.com/components/com_mtree/img/listings/m/1396.jpg</Va
         <LocalFileName />
         <ZipFileName>Installer{CopyFile}\{88ff4ea9-c1a9-46c4-8a1a-31fdcb5037d7}-</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings</DestinationFilename>
-        <Folder>..\..\BackupSettingsV1.2.2.10.Release</Folder>
+        <Folder>..\..\BackupSettingsV1.2.2.12.Release</Folder>
+        <Group>Default</Group>
+        <Recursive>true</Recursive>
+      </FolderGroup>
+      <FolderGroup InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName />
+        <ZipFileName>Installer{CopyFile}\{9ee0e06f-201e-459a-9461-cc67d8dc4550}-</ZipFileName>
+        <DestinationFilename>%Config%\Installer\BackupSettings</DestinationFilename>
+        <Folder>..\..\BackupSettings.Release</Folder>
         <Group>Default</Group>
         <Recursive>true</Recursive>
       </FolderGroup>
     </FolderGroups>
     <ProjectFilename>BackupSettings.xmp2</ProjectFilename>
-    <UpdatePath1>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\MPEI2\BackupSettings.Update.xml</UpdatePath1>
+    <UpdatePath1>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\MPEI2\BackupSettings.Update.xml</UpdatePath1>
     <UpdatePath2 />
     <UpdatePath3 />
   </ProjectSettings>

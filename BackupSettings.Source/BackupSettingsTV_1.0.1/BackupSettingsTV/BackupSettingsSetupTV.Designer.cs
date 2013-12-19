@@ -66,6 +66,7 @@ namespace SetupTv.Sections
             this.clearbutton = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.checkBoxUseAutoDate = new System.Windows.Forms.CheckBox();
             this.checkBoxMP2S = new System.Windows.Forms.CheckBox();
             this.checkBoxMP2C = new System.Windows.Forms.CheckBox();
             this.groupBox7 = new System.Windows.Forms.GroupBox();
@@ -229,7 +230,6 @@ namespace SetupTv.Sections
             this.label21 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
             this.progressBar = new System.Windows.Forms.ProgressBar();
-            this.checkBoxUseAutoDate = new System.Windows.Forms.CheckBox();
             this.groupBox1.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -386,6 +386,17 @@ namespace SetupTv.Sections
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Main";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // checkBoxUseAutoDate
+            // 
+            this.checkBoxUseAutoDate.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.checkBoxUseAutoDate.AutoSize = true;
+            this.checkBoxUseAutoDate.Location = new System.Drawing.Point(336, 263);
+            this.checkBoxUseAutoDate.Name = "checkBoxUseAutoDate";
+            this.checkBoxUseAutoDate.Size = new System.Drawing.Size(96, 17);
+            this.checkBoxUseAutoDate.TabIndex = 25;
+            this.checkBoxUseAutoDate.Text = "Use Auto Date";
+            this.checkBoxUseAutoDate.UseVisualStyleBackColor = true;
             // 
             // checkBoxMP2S
             // 
@@ -922,7 +933,7 @@ namespace SetupTv.Sections
             this.groupBox5.Size = new System.Drawing.Size(195, 242);
             this.groupBox5.TabIndex = 0;
             this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "File Settimgs for Export and Import";
+            this.groupBox5.Text = "File Settings for Export and Import";
             // 
             // checkBoxMPMusicPlayer
             // 
@@ -2199,17 +2210,6 @@ namespace SetupTv.Sections
             this.progressBar.Name = "progressBar";
             this.progressBar.Size = new System.Drawing.Size(449, 10);
             this.progressBar.TabIndex = 9;
-            // 
-            // checkBoxUseAutoDate
-            // 
-            this.checkBoxUseAutoDate.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.checkBoxUseAutoDate.AutoSize = true;
-            this.checkBoxUseAutoDate.Location = new System.Drawing.Point(336, 263);
-            this.checkBoxUseAutoDate.Name = "checkBoxUseAutoDate";
-            this.checkBoxUseAutoDate.Size = new System.Drawing.Size(96, 17);
-            this.checkBoxUseAutoDate.TabIndex = 25;
-            this.checkBoxUseAutoDate.Text = "Use Auto Date";
-            this.checkBoxUseAutoDate.UseVisualStyleBackColor = true;
             // 
             // BackupSettingsSetup
             // 

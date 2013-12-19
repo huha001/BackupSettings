@@ -280,7 +280,7 @@ namespace BackupSettingsMP.exe
             this.groupBox5.Size = new System.Drawing.Size(195, 230);
             this.groupBox5.TabIndex = 0;
             this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "File Settimgs for Export and Import";
+            this.groupBox5.Text = "File Settings for Export and Import";
             // 
             // checkBoxMPThumbs
             // 
@@ -1381,7 +1381,7 @@ namespace BackupSettingsMP.exe
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
-            this.Text = "MediaPortal BackupSettingsMP V1.2.2.10";
+            this.Text = "MediaPortal BackupSettingsMP V1.2.2.12";
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
             this.tabPage3.ResumeLayout(false);

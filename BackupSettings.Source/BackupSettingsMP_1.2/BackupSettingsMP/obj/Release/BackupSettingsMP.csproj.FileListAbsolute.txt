@@ -476,3 +476,8 @@ H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSe
 H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
 H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
 H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\bin\Release\BackupSettingsMP.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsMP_1.2\BackupSettingsMP\obj\Release\BackupSettingsMP.pdb

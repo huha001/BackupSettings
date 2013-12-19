@@ -122,7 +122,7 @@ namespace TvEngine
 
         public string Version
         {
-            get { return "1.2.2.10"; }
+            get { return "1.2.2.12"; }
         }
 
         public string Author
@@ -996,7 +996,7 @@ namespace TvEngine
                             }
                             else
                             {
-                                if (tokens[2] != "NOTFOUND")
+                                if (tokens[2] != "BACKUPSETTINGS_NOTFOUND")
                                 {
                                     setting = layer.GetSetting(tokens[1], "");
                                     setting.Value = tokens[2];

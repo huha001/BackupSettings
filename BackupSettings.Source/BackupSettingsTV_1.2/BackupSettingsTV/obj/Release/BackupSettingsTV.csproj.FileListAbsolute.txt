@@ -607,3 +607,10 @@ H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSe
 H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Release\BackupSettingsTV.csproj.GenerateResource.Cache
 H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Release\BackupSettingsTV.dll
 H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsV1.2.2.10\BackupSettingsV1.2.2.10.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Release\BackupSettingsTV.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\bin\Release\BackupSettingsTV.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\bin\Release\BackupSettingsTV.pdb
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Release\ResolveAssemblyReference.cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Release\SetupTv.Sections.BackupSettingsSetup.resources
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Release\BackupSettingsTV.csproj.GenerateResource.Cache
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Release\BackupSettingsTV.dll
+H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\BackupSettingsTV_1.2\BackupSettingsTV\obj\Release\BackupSettingsTV.pdb
