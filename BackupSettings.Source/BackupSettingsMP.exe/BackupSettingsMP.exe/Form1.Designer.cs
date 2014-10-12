@@ -1381,7 +1381,7 @@ namespace BackupSettingsMP.exe
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
-            this.Text = "MediaPortal BackupSettingsMP V1.2.2.12";
+            this.Text = "MediaPortal BackupSettingsMP V1.2.2.13";
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
             this.tabPage3.ResumeLayout(false);

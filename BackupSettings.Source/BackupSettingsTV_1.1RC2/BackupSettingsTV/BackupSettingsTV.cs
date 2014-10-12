@@ -122,7 +122,7 @@ namespace TvEngine
 
         public string Version
         {
-            get { return "1.2.2.12"; }
+            get { return "1.2.2.13"; }
         }
 
         public string Author

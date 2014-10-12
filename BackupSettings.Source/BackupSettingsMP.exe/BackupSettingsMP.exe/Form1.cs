@@ -336,7 +336,7 @@ namespace BackupSettingsMP.exe
                 //create automated foldername
                 SaveSettings();
                 newexportimport.MyLoadSettings();
-                filenametextBox.Text = newexportimport.CreateAutomatedFolderName(filenametextBox.Text, WhoAmI.Tv_Server);
+                filenametextBox.Text = newexportimport.CreateAutomatedFolderName(filenametextBox.Text, IDENT);
             }
 
             UpdateGUI();

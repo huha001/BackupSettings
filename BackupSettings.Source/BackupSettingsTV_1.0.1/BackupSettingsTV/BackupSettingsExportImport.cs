@@ -256,7 +256,7 @@ namespace BackupSettingsPlugin
         bool PB_PAUSE = false;
         bool PB_CANCEL = false;
 
-        string pluginversion = "1.2.2.12";
+        string pluginversion = "1.2.2.13";
 
         string ActualBackupSettingsVersion = "NOT DEFINED";
         string ActualMediaPortalVersion = "NOT DEFINED";

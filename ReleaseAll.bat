@@ -3,8 +3,8 @@ REM DEFINE VARIABLES
 REM *************************************************************************
 REM 
 
-SET OLDVERSION=1.2.2.11
-SET NEWVERSION=1.2.2.12
+SET OLDVERSION=1.2.2.12
+SET NEWVERSION=1.2.2.13
 
 SET MSFRAMEPATH="C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe"
 SET MSFRAMEPATH_MP2="C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"

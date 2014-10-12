@@ -55,7 +55,7 @@
           <Major>1</Major>
           <Minor>2</Minor>
           <Build>2</Build>
-          <Revision>12</Revision>
+          <Revision>13</Revision>
         </Version>
         <ExtensionDescription>No more manual typing of user settings after a new reinstall of TV Server and Media Portal.
 
@@ -74,15 +74,15 @@ It also creates a backup of your Media Portal user settings, plugins, skins, inp
 
 
 The plugin can be used with or without Tv server installation.</ExtensionDescription>
-        <VersionDescription>Version 1.2.2.12
--cleanup of „NOTFOUND“ Settings for any cards during export (thanks to wjw and mm1352000)
+        <VersionDescription>Version 1.2.2.13
+-installer fix for MP1.9
 
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>http://www.team-mediaportal.com/index.php?option=com_mtree&amp;task=att_download&amp;link_id=74&amp;cf_id=24</OnlineLocation>
-        <ReleaseDate>2013-12-19T18:27:26</ReleaseDate>
+        <ReleaseDate>2014-10-12T18:27:26</ReleaseDate>
         <Tags>automation,tv server plugins,backupsettings</Tags>
-        <Location>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\MPEI2\BackupSettings.Ver.1.2.2.12.mpe1</Location>
+        <Location>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\MPEI2\BackupSettings.Ver.1.2.2.13.mpe1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">

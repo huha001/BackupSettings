@@ -1,35 +1,4 @@
-﻿#region Copyright (C) 2006-2010 Team MediaPortal
-
-/* 
- *	Copyright (C) 2006-2009 Team MediaPortal
- *	http://www.team-mediaportal.com
- *
- *  This Program is free software; you can redistribute it and/or modify
- *  it under the terms of the GNU General Public License as published by
- *  the Free Software Foundation; either version 3, or (at your option)
- *  any later version.
- *   
- *  This Program is distributed in the hope that it will be useful,
- *  but WITHOUT ANY WARRANTY; without even the implied warranty of
- *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
- *  GNU General Public License for more details.
- *   
- *  You should have received a copy of the GNU General Public License
- *  along with GNU Make; see the file COPYING.  If not, write to
- *  the Free Software Foundation, 675 Mass Ave, Cambridge, MA 02139, USA. 
- *  http://www.gnu.org/copyleft/gpl.html
- *
- */
-
-
-/*
- * Version 1.0.0.3
- * wait for stopping tvservice at least 3 minutes
- * call RestartSetupTV.exe with TEST argument to enforce internet security warning during install
- */
-
-#endregion
-
+﻿
 //enhancement: check for MP program running during install and uninstall (from tvwishlist)
 
 using System;
@@ -1665,7 +1634,7 @@ namespace BackupSettingsInstall
 
             //errorchecking version1
             string[] tokenarray1 = version1.Split('.');
-            if (tokenarray1.Length != 4)
+            if ((tokenarray1.Length != 4) && (tokenarray1.Length != 3))
             {
                 return (int)CompareFileVersion.Version1Error;
             }
@@ -1683,7 +1652,7 @@ namespace BackupSettingsInstall
 
             //errorchecking version2
             string[] tokenarray2 = version2.Split('.');
-            if (tokenarray2.Length != 4)
+            if ((tokenarray2.Length != 4) && (tokenarray2.Length != 3))
             {
                 return (int)CompareFileVersion.Version2Error;
             }
@@ -1729,6 +1698,11 @@ namespace BackupSettingsInstall
                     }
                     else //same
                     {
+                        if (tokenarray1.Length == 3)
+                        {
+                            return (int)CompareFileVersion.Equal;
+                        }
+
                         if (Convert.ToInt32(tokenarray1[3]) > Convert.ToInt32(tokenarray2[3]))
                         {
                             return (int)CompareFileVersion.Newer;
@@ -1744,6 +1718,7 @@ namespace BackupSettingsInstall
                     }
                 }
             }
+
         }
 
         private void CreateTVServerAutoRepairBatch()

@@ -242,7 +242,7 @@
       <Major>1</Major>
       <Minor>2</Minor>
       <Build>2</Build>
-      <Revision>12</Revision>
+      <Revision>13</Revision>
     </Version>
     <ExtensionDescription>No more manual typing of user settings after a new reinstall of TV Server and Media Portal.
 
@@ -261,15 +261,15 @@ It also creates a backup of your Media Portal user settings, plugins, skins, inp
 
 
 The plugin can be used with or without Tv server installation.</ExtensionDescription>
-    <VersionDescription>Version 1.2.2.12
--cleanup of „NOTFOUND“ Settings for any cards during export (thanks to wjw and mm1352000)
+    <VersionDescription>Version 1.2.2.13
+-installer fix for MP1.9
 
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>http://www.team-mediaportal.com/index.php?option=com_mtree&amp;task=att_download&amp;link_id=74&amp;cf_id=24</OnlineLocation>
-    <ReleaseDate>2013-12-19T18:27:26</ReleaseDate>
+    <ReleaseDate>2014-10-12T18:27:26</ReleaseDate>
     <Tags>automation,tv server plugins,backupsettings</Tags>
-    <Location>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\MPEI2\BackupSettings.Ver.1.2.2.12.mpe1</Location>
+    <Location>H:\User Daten\Visual C# Projects\BackupSettings\BackupSettingsGitRepository\BackupSettings\BackupSettings.Source\MPEI2\BackupSettings.Ver.1.2.2.13.mpe1</Location>
     <Params>
       <Items>
         <SectionParam Name="Icon">
@@ -431,7 +431,7 @@ http://www.team-mediaportal.com/components/com_mtree/img/listings/m/1396.jpg</Va
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\..\..\BackupSettings.Icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{fb5056ba-d398-4e7d-b401-6b7ae90358b0}-BackupSettings.Icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{dc60e3fd-591a-40e3-b78c-cdac07d755fe}-BackupSettings.Icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
@@ -444,7 +444,7 @@ http://www.team-mediaportal.com/components/com_mtree/img/listings/m/1396.jpg</Va
         <LocalFileName />
         <ZipFileName>Installer{CopyFile}\{88ff4ea9-c1a9-46c4-8a1a-31fdcb5037d7}-</ZipFileName>
         <DestinationFilename>%Config%\Installer\BackupSettings</DestinationFilename>
-        <Folder>..\..\BackupSettingsV1.2.2.12.Release</Folder>
+        <Folder>..\..\BackupSettingsV1.2.2.13.Release</Folder>
         <Group>Default</Group>
         <Recursive>true</Recursive>
       </FolderGroup>
